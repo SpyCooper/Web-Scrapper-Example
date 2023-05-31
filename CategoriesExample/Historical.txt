@@ -1,0 +1,10 @@
+- 1 - 
+Book Name: All the Light We Cannot See
+Price: $29.87
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/all-the-light-we-cannot-see_660/index.html
+- 2 - 
+Book Name: The Girl You Left Behind (The Girl You Left Behind #1)
+Price: $15.79
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-girl-you-left-behind-the-girl-you-left-behind-1_443/index.html

@@ -1,0 +1,65 @@
+- 1 - 
+Book Name: Rip it Up and Start Again
+Price: $35.02
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
+- 2 - 
+Book Name: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+Price: $57.25
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
+- 3 - 
+Book Name: How Music Works
+Price: $37.32
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/how-music-works_979/index.html
+- 4 - 
+Book Name: Love Is a Mix Tape (Music #1)
+Price: $18.03
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/love-is-a-mix-tape-music-1_711/index.html
+- 5 - 
+Book Name: Please Kill Me: The Uncensored Oral History of Punk
+Price: $31.19
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/please-kill-me-the-uncensored-oral-history-of-punk_537/index.html
+- 6 - 
+Book Name: Kill 'Em and Leave: Searching for James Brown and the American Soul
+Price: $45.05
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/kill-em-and-leave-searching-for-james-brown-and-the-american-soul_528/index.html
+- 7 - 
+Book Name: Chronicles, Vol. 1
+Price: $52.60
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/chronicles-vol-1_462/index.html
+- 8 - 
+Book Name: This Is Your Brain on Music: The Science of a Human Obsession
+Price: $38.40
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/this-is-your-brain-on-music-the-science-of-a-human-obsession_414/index.html
+- 9 - 
+Book Name: Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors
+Price: $12.36
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/orchestra-of-exiles-the-story-of-bronislaw-huberman-the-israel-philharmonic-and-the-one-thousand-jews-he-saved-from-nazi-horrors_337/index.html
+- 10 - 
+Book Name: No One Here Gets Out Alive
+Price: $20.02
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/no-one-here-gets-out-alive_336/index.html
+- 11 - 
+Book Name: Life
+Price: $31.58
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/life_104/index.html
+- 12 - 
+Book Name: Old Records Never Die: One Man's Quest for His Vinyl and His Past
+Price: $55.66
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/old-records-never-die-one-mans-quest-for-his-vinyl-and-his-past_39/index.html
+- 13 - 
+Book Name: Forever Rockers (The Rocker #12)
+Price: $28.80
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/forever-rockers-the-rocker-12_19/index.html

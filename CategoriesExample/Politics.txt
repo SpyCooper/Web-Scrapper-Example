@@ -1,0 +1,15 @@
+- 1 - 
+Book Name: Libertarianism for Beginners
+Price: $51.33
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html
+- 2 - 
+Book Name: Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond
+Price: $52.65
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/why-the-right-went-wrong-conservatism-from-goldwater-to-the-tea-party-and-beyond_781/index.html
+- 3 - 
+Book Name: Equal Is Unfair: America's Misguided Fight Against Income Inequality
+Price: $56.86
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/equal-is-unfair-americas-misguided-fight-against-income-inequality_617/index.html

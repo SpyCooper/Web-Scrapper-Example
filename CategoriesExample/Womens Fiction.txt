@@ -1,0 +1,85 @@
+- 1 - 
+Book Name: I Had a Nice Time And Other Lies...: How to find love & sh*t like that
+Price: $57.36
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/i-had-a-nice-time-and-other-lies-how-to-find-love-sht-like-that_814/index.html
+- 2 - 
+Book Name: Will You Won't You Want Me?
+Price: $13.86
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/will-you-wont-you-want-me_644/index.html
+- 3 - 
+Book Name: Keep Me Posted
+Price: $20.46
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/keep-me-posted_594/index.html
+- 4 - 
+Book Name: Grey (Fifty Shades #4)
+Price: $48.49
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/grey-fifty-shades-4_592/index.html
+- 5 - 
+Book Name: Meternity
+Price: $43.58
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/meternity_478/index.html
+- 6 - 
+Book Name: Some Women
+Price: $13.73
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/some-women_341/index.html
+- 7 - 
+Book Name: Shopaholic Ties the Knot (Shopaholic #3)
+Price: $48.39
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/shopaholic-ties-the-knot-shopaholic-3_340/index.html
+- 8 - 
+Book Name: Can You Keep a Secret?
+Price: $21.94
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/can-you-keep-a-secret_315/index.html
+- 9 - 
+Book Name: Twenties Girl
+Price: $42.80
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/twenties-girl_292/index.html
+- 10 - 
+Book Name: The Undomestic Goddess
+Price: $45.75
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-undomestic-goddess_286/index.html
+- 11 - 
+Book Name: The Nanny Diaries (Nanny #1)
+Price: $52.53
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-nanny-diaries-nanny-1_265/index.html
+- 12 - 
+Book Name: The Devil Wears Prada (The Devil Wears Prada #1)
+Price: $44.29
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-devil-wears-prada-the-devil-wears-prada-1_243/index.html
+- 13 - 
+Book Name: Something Borrowed (Darcy & Rachel #1)
+Price: $48.96
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/something-borrowed-darcy-rachel-1_224/index.html
+- 14 - 
+Book Name: Something Blue (Darcy & Rachel #2)
+Price: $54.62
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/something-blue-darcy-rachel-2_223/index.html
+- 15 - 
+Book Name: I've Got Your Number
+Price: $19.69
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/ive-got-your-number_173/index.html
+- 16 - 
+Book Name: The Edge of Reason (Bridget Jones #2)
+Price: $19.18
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-edge-of-reason-bridget-jones-2_63/index.html
+- 17 - 
+Book Name: Bridget Jones's Diary (Bridget Jones #1)
+Price: $29.82
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/bridget-joness-diary-bridget-jones-1_10/index.html

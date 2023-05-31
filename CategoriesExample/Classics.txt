@@ -1,0 +1,95 @@
+- 1 - 
+Book Name: The Secret Garden
+Price: $15.08
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-secret-garden_413/index.html
+- 2 - 
+Book Name: The Metamorphosis
+Price: $28.58
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-metamorphosis_409/index.html
+- 3 - 
+Book Name: The Pilgrim's Progress
+Price: $50.26
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-pilgrims-progress_353/index.html
+- 4 - 
+Book Name: The Hound of the Baskervilles (Sherlock Holmes #5)
+Price: $14.82
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-hound-of-the-baskervilles-sherlock-holmes-5_348/index.html
+- 5 - 
+Book Name: Little Women (Little Women #1)
+Price: $28.07
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/little-women-little-women-1_331/index.html
+- 6 - 
+Book Name: Gone with the Wind
+Price: $32.49
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/gone-with-the-wind_324/index.html
+- 7 - 
+Book Name: Candide
+Price: $58.63
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/candide_316/index.html
+- 8 - 
+Book Name: Animal Farm
+Price: $57.22
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/animal-farm_313/index.html
+- 9 - 
+Book Name: Wuthering Heights
+Price: $17.73
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/wuthering-heights_307/index.html
+- 10 - 
+Book Name: The Picture of Dorian Gray
+Price: $29.70
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-picture-of-dorian-gray_270/index.html
+- 11 - 
+Book Name: The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition])
+Price: $26.78
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-complete-stories-and-poems-the-works-of-edgar-allan-poe-cameo-edition_238/index.html
+- 12 - 
+Book Name: Beowulf
+Price: $38.35
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/beowulf_126/index.html
+- 13 - 
+Book Name: And Then There Were None
+Price: $35.01
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/and-then-there-were-none_119/index.html
+- 14 - 
+Book Name: The Story of Hong Gildong
+Price: $43.19
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-story-of-hong-gildong_84/index.html
+- 15 - 
+Book Name: The Little Prince
+Price: $45.42
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-little-prince_72/index.html
+- 16 - 
+Book Name: Sense and Sensibility
+Price: $37.46
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/sense-and-sensibility_49/index.html
+- 17 - 
+Book Name: Of Mice and Men
+Price: $47.11
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/of-mice-and-men_37/index.html
+- 18 - 
+Book Name: Emma
+Price: $32.93
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/emma_17/index.html
+- 19 - 
+Book Name: Alice in Wonderland (Alice's Adventures in Wonderland #1)
+Price: $55.53
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/alice-in-wonderland-alices-adventures-in-wonderland-1_5/index.html

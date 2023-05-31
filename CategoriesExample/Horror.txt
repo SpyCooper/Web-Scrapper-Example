@@ -1,0 +1,85 @@
+- 1 - 
+Book Name: Security
+Price: $39.25
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/security_925/index.html
+- 2 - 
+Book Name: Follow You Home
+Price: $21.36
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/follow-you-home_809/index.html
+- 3 - 
+Book Name: The Loney
+Price: $23.40
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-loney_756/index.html
+- 4 - 
+Book Name: Pet Sematary
+Price: $10.56
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/pet-sematary_726/index.html
+- 5 - 
+Book Name: Doctor Sleep (The Shining #2)
+Price: $40.12
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/doctor-sleep-the-shining-2_686/index.html
+- 6 - 
+Book Name: Psycho: Sanitarium (Psycho #1.5)
+Price: $36.97
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/psycho-sanitarium-psycho-15_628/index.html
+- 7 - 
+Book Name: Can You Keep a Secret? (Fear Street Relaunch #4)
+Price: $48.64
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/can-you-keep-a-secret-fear-street-relaunch-4_614/index.html
+- 8 - 
+Book Name: Red Dragon (Hannibal Lecter #1)
+Price: $23.37
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/red-dragon-hannibal-lecter-1_390/index.html
+- 9 - 
+Book Name: Dracula the Un-Dead
+Price: $35.63
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/dracula-the-un-dead_370/index.html
+- 10 - 
+Book Name: Night Shift (Night Shift #1-20)
+Price: $12.75
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/night-shift-night-shift-1-20_335/index.html
+- 11 - 
+Book Name: Needful Things
+Price: $47.51
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/needful-things_334/index.html
+- 12 - 
+Book Name: Misery
+Price: $34.79
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/misery_332/index.html
+- 13 - 
+Book Name: It
+Price: $25.01
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/it_330/index.html
+- 14 - 
+Book Name: 'Salem's Lot
+Price: $49.56
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/salems-lot_309/index.html
+- 15 - 
+Book Name: The Stand
+Price: $57.86
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-stand_282/index.html
+- 16 - 
+Book Name: The Girl with All the Gifts
+Price: $49.47
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-girl-with-all-the-gifts_250/index.html
+- 17 - 
+Book Name: House of Leaves
+Price: $54.89
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/house-of-leaves_169/index.html

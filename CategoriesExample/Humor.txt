@@ -1,0 +1,50 @@
+- 1 - 
+Book Name: The Long Haul (Diary of a Wimpy Kid #9)
+Price: $44.07
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-long-haul-diary-of-a-wimpy-kid-9_757/index.html
+- 2 - 
+Book Name: Old School (Diary of a Wimpy Kid #10)
+Price: $11.83
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/old-school-diary-of-a-wimpy-kid-10_723/index.html
+- 3 - 
+Book Name: I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction
+Price: $25.98
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/i-know-what-im-doing-and-other-lies-i-tell-myself-dispatches-from-a-life-under-construction_704/index.html
+- 4 - 
+Book Name: Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened
+Price: $14.75
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/hyperbole-and-a-half-unfortunate-situations-flawed-coping-mechanisms-mayhem-and-other-things-that-happened_702/index.html
+- 5 - 
+Book Name: Dress Your Family in Corduroy and Denim
+Price: $43.68
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/dress-your-family-in-corduroy-and-denim_562/index.html
+- 6 - 
+Book Name: Toddlers Are A**holes: It's Not Your Fault
+Price: $25.55
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/toddlers-are-aholes-its-not-your-fault_503/index.html
+- 7 - 
+Book Name: When You Are Engulfed in Flames
+Price: $30.89
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/when-you-are-engulfed-in-flames_303/index.html
+- 8 - 
+Book Name: Naked
+Price: $31.69
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/naked_197/index.html
+- 9 - 
+Book Name: Lamb: The Gospel According to Biff, Christ's Childhood Pal
+Price: $55.50
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/lamb-the-gospel-according-to-biff-christs-childhood-pal_182/index.html
+- 10 - 
+Book Name: Holidays on Ice
+Price: $51.07
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/holidays-on-ice_167/index.html

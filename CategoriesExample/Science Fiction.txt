@@ -1,0 +1,80 @@
+- 1 - 
+Book Name: Mesaerion: The Best Science Fiction Stories 1800-1849
+Price: $37.59
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
+- 2 - 
+Book Name: Join
+Price: $35.67
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/join_902/index.html
+- 3 - 
+Book Name: William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)
+Price: $43.30
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/william-shakespeares-star-wars-verily-a-new-hope-william-shakespeares-star-wars-4_871/index.html
+- 4 - 
+Book Name: The Project
+Price: $10.65
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-project_856/index.html
+- 5 - 
+Book Name: Soft Apocalypse
+Price: $26.12
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/soft-apocalypse_833/index.html
+- 6 - 
+Book Name: Sleeping Giants (Themis Files #1)
+Price: $48.74
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/sleeping-giants-themis-files-1_604/index.html
+- 7 - 
+Book Name: Arena
+Price: $21.36
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/arena_587/index.html
+- 8 - 
+Book Name: Foundation (Foundation (Publication Order) #1)
+Price: $32.42
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/foundation-foundation-publication-order-1_375/index.html
+- 9 - 
+Book Name: The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)
+Price: $10.92
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-restaurant-at-the-end-of-the-universe-hitchhikers-guide-to-the-galaxy-2_275/index.html
+- 10 - 
+Book Name: Ready Player One
+Price: $19.07
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/ready-player-one_209/index.html
+- 11 - 
+Book Name: Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)
+Price: $33.26
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/life-the-universe-and-everything-hitchhikers-guide-to-the-galaxy-3_189/index.html
+- 12 - 
+Book Name: Dune (Dune #1)
+Price: $54.86
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/dune-dune-1_151/index.html
+- 13 - 
+Book Name: Do Androids Dream of Electric Sheep? (Blade Runner #1)
+Price: $51.48
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/do-androids-dream-of-electric-sheep-blade-runner-1_149/index.html
+- 14 - 
+Book Name: Three Wishes (River of Time: California #1)
+Price: $44.18
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/three-wishes-river-of-time-california-1_89/index.html
+- 15 - 
+Book Name: The Last Girl (The Dominion Trilogy #1)
+Price: $36.26
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-last-girl-the-dominion-trilogy-1_70/index.html
+- 16 - 
+Book Name: Having the Barbarian's Baby (Ice Planet Barbarians #7.5)
+Price: $34.96
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/having-the-barbarians-baby-ice-planet-barbarians-75_23/index.html

@@ -1,0 +1,30 @@
+- 1 - 
+Book Name: Without Borders (Wanderlove #1)
+Price: $45.07
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/without-borders-wanderlove-1_956/index.html
+- 2 - 
+Book Name: The Mistake (Off-Campus #2)
+Price: $43.29
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-mistake-off-campus-2_851/index.html
+- 3 - 
+Book Name: The Matchmaker's Playbook (Wingmen Inc. #1)
+Price: $55.85
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-matchmakers-playbook-wingmen-inc-1_850/index.html
+- 4 - 
+Book Name: The Hook Up (Game On #1)
+Price: $36.29
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-hook-up-game-on-1_68/index.html
+- 5 - 
+Book Name: Shameless
+Price: $58.35
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/shameless_52/index.html
+- 6 - 
+Book Name: Off Sides (Off #1)
+Price: $39.45
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/off-sides-off-1_38/index.html

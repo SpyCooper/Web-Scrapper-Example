@@ -1,0 +1,550 @@
+- 1 - 
+Book Name: Worlds Elsewhere: Journeys Around Shakespeareâs Globe
+Price: $40.30
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html
+- 2 - 
+Book Name: The Five Love Languages: How to Express Heartfelt Commitment to Your Mate
+Price: $31.05
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html
+- 3 - 
+Book Name: Reasons to Stay Alive
+Price: $26.41
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/reasons-to-stay-alive_959/index.html
+- 4 - 
+Book Name: #HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.
+Price: $23.11
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html
+- 5 - 
+Book Name: Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness
+Price: $44.18
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html
+- 6 - 
+Book Name: Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity
+Price: $31.12
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html
+- 7 - 
+Book Name: The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+Price: $16.77
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html
+- 8 - 
+Book Name: The Gutsy Girl: Escapades for Your Life of Epic Adventure
+Price: $37.13
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html
+- 9 - 
+Book Name: The Electric Pencil: Drawings from Inside State Hospital No. 3
+Price: $56.06
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html
+- 10 - 
+Book Name: Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up
+Price: $41.83
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html
+- 11 - 
+Book Name: Reskilling America: Learning to Labor in the Twenty-First Century
+Price: $19.83
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html
+- 12 - 
+Book Name: In the Country We Love: My Family Divided
+Price: $22.00
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/in-the-country-we-love-my-family-divided_901/index.html
+- 13 - 
+Book Name: Everydata: The Misinformation Hidden in the Little Data You Consume Every Day
+Price: $54.35
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/everydata-the-misinformation-hidden-in-the-little-data-you-consume-every-day_891/index.html
+- 14 - 
+Book Name: Call the Nurse: True Stories of a Country Nurse on a Scottish Isle
+Price: $29.14
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/call-the-nurse-true-stories-of-a-country-nurse-on-a-scottish-isle_885/index.html
+- 15 - 
+Book Name: Algorithms to Live By: The Computer Science of Human Decisions
+Price: $30.81
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/algorithms-to-live-by-the-computer-science-of-human-decisions_880/index.html
+- 16 - 
+Book Name: The Power of Now: A Guide to Spiritual Enlightenment
+Price: $43.54
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-power-of-now-a-guide-to-spiritual-enlightenment_855/index.html
+- 17 - 
+Book Name: The Omnivore's Dilemma: A Natural History of Four Meals
+Price: $38.21
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-omnivores-dilemma-a-natural-history-of-four-meals_854/index.html
+- 18 - 
+Book Name: The Genius of Birds
+Price: $17.24
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-genius-of-birds_843/index.html
+- 19 - 
+Book Name: The Artist's Way: A Spiritual Path to Higher Creativity
+Price: $38.49
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-artists-way-a-spiritual-path-to-higher-creativity_839/index.html
+- 20 - 
+Book Name: So You've Been Publicly Shamed
+Price: $12.23
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/so-youve-been-publicly-shamed_832/index.html
+- 21 - 
+Book Name: Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead
+Price: $19.43
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead_799/index.html
+- 22 - 
+Book Name: Big Magic: Creative Living Beyond Fear
+Price: $30.80
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/big-magic-creative-living-beyond-fear_796/index.html
+- 23 - 
+Book Name: Becoming Wise: An Inquiry into the Mystery and Art of Living
+Price: $27.43
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/becoming-wise-an-inquiry-into-the-mystery-and-art-of-living_795/index.html
+- 24 - 
+Book Name: Agnostic: A Spirited Manifesto
+Price: $12.51
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/agnostic-a-spirited-manifesto_786/index.html
+- 25 - 
+Book Name: Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity
+Price: $38.20
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/whole-lotta-creativity-going-on-60-fun-and-unusual-exercises-to-awaken-and-strengthen-your-creativity_780/index.html
+- 26 - 
+Book Name: What's It Like in Space?: Stories from Astronauts Who've Been There
+Price: $19.60
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/whats-it-like-in-space-stories-from-astronauts-whove-been-there_779/index.html
+- 27 - 
+Book Name: The Year of Magical Thinking
+Price: $43.04
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-year-of-magical-thinking_770/index.html
+- 28 - 
+Book Name: The Literature Book (Big Ideas Simply Explained)
+Price: $17.43
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-literature-book-big-ideas-simply-explained_755/index.html
+- 29 - 
+Book Name: The Bad-Ass Librarians of Timbuktu: And Their Race to Save the Worldâs Most Precious Manuscripts
+Price: $15.77
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-bad-ass-librarians-of-timbuktu-and-their-race-to-save-the-worlds-most-precious-manuscripts_745/index.html
+- 30 - 
+Book Name: Swell: A Year of Waves
+Price: $45.58
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/swell-a-year-of-waves_740/index.html
+- 31 - 
+Book Name: No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon
+Price: $21.95
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/no-dream-is-too-high-life-lessons-from-a-man-who-walked-on-the-moon_722/index.html
+- 32 - 
+Book Name: Looking for Lovely: Collecting the Moments that Matter
+Price: $29.14
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/looking-for-lovely-collecting-the-moments-that-matter_710/index.html
+- 33 - 
+Book Name: Let It Out: A Journey Through Journaling
+Price: $26.79
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/let-it-out-a-journey-through-journaling_708/index.html
+- 34 - 
+Book Name: Hamilton: The Revolution
+Price: $58.79
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/hamilton-the-revolution_699/index.html
+- 35 - 
+Book Name: Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years
+Price: $15.06
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/far-away-places-on-the-brink-of-change-seven-continents-twenty-five-years_694/index.html
+- 36 - 
+Book Name: Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life
+Price: $51.75
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/eaternity-more-than-150-deliciously-easy-vegan-recipes-for-a-long-healthy-satisfied-joyful-life_689/index.html
+- 37 - 
+Book Name: Buying In: The Secret Dialogue Between What We Buy and Who We Are
+Price: $37.80
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/buying-in-the-secret-dialogue-between-what-we-buy-and-who-we-are_670/index.html
+- 38 - 
+Book Name: Brain on Fire: My Month of Madness
+Price: $49.32
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/brain-on-fire-my-month-of-madness_669/index.html
+- 39 - 
+Book Name: Abstract City
+Price: $56.37
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/abstract-city_658/index.html
+- 40 - 
+Book Name: 13 Hours: The Inside Account of What Really Happened In Benghazi
+Price: $27.06
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/13-hours-the-inside-account-of-what-really-happened-in-benghazi_645/index.html
+- 41 - 
+Book Name: The Lonely City: Adventures in the Art of Being Alone
+Price: $33.26
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-lonely-city-adventures-in-the-art-of-being-alone_639/index.html
+- 42 - 
+Book Name: The Diary of a Young Girl
+Price: $59.90
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-diary-of-a-young-girl_634/index.html
+- 43 - 
+Book Name: Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas
+Price: $21.21
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/snatched-how-a-drug-queen-went-undercover-for-the-dea-and-was-kidnapped-by-colombian-guerillas_631/index.html
+- 44 - 
+Book Name: Furiously Happy: A Funny Book About Horrible Things
+Price: $41.46
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/furiously-happy-a-funny-book-about-horrible-things_619/index.html
+- 45 - 
+Book Name: The Sleep Revolution: Transforming Your Life, One Night at a Time
+Price: $11.68
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-sleep-revolution-transforming-your-life-one-night-at-a-time_608/index.html
+- 46 - 
+Book Name: Mother, Can You Not?
+Price: $16.89
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/mother-can-you-not_599/index.html
+- 47 - 
+Book Name: A Mother's Reckoning: Living in the Aftermath of Tragedy
+Price: $19.53
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-mothers-reckoning-living-in-the-aftermath-of-tragedy_585/index.html
+- 48 - 
+Book Name: 10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works
+Price: $24.57
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/10-happier-how-i-tamed-the-voice-in-my-head-reduced-stress-without-losing-my-edge-and-found-self-help-that-actually-works_582/index.html
+- 49 - 
+Book Name: Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster
+Price: $35.92
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/chernobyl-012340-the-incredible-true-story-of-the-worlds-worst-nuclear-disaster_560/index.html
+- 50 - 
+Book Name: Zero to One: Notes on Startups, or How to Build the Future
+Price: $34.06
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/zero-to-one-notes-on-startups-or-how-to-build-the-future_555/index.html
+- 51 - 
+Book Name: Why Not Me?
+Price: $17.76
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/why-not-me_554/index.html
+- 52 - 
+Book Name: When Breath Becomes Air
+Price: $39.36
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/when-breath-becomes-air_553/index.html
+- 53 - 
+Book Name: The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer
+Price: $28.45
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-midnight-assassin-panic-scandal-and-the-hunt-for-americas-first-serial-killer_549/index.html
+- 54 - 
+Book Name: Smarter Faster Better: The Secrets of Being Productive in Life and Business
+Price: $38.89
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/smarter-faster-better-the-secrets-of-being-productive-in-life-and-business_543/index.html
+- 55 - 
+Book Name: Rising Strong
+Price: $21.82
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/rising-strong_539/index.html
+- 56 - 
+Book Name: Man's Search for Meaning
+Price: $29.48
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/mans-search-for-meaning_533/index.html
+- 57 - 
+Book Name: Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations
+Price: $25.06
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/love-that-boy-what-two-presidents-eight-road-trips-and-my-son-taught-me-about-a-parents-expectations_532/index.html
+- 58 - 
+Book Name: Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want
+Price: $12.55
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/living-forward-a-proven-plan-to-stop-drifting-and-get-the-life-you-want_531/index.html
+- 59 - 
+Book Name: I Will Find You
+Price: $44.21
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/i-will-find-you_524/index.html
+- 60 - 
+Book Name: Brazen: The Courage to Find the You That's Been Hiding
+Price: $19.22
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/brazen-the-courage-to-find-the-you-thats-been-hiding_514/index.html
+- 61 - 
+Book Name: Between the World and Me
+Price: $56.91
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/between-the-world-and-me_513/index.html
+- 62 - 
+Book Name: Being Mortal: Medicine and What Matters in the End
+Price: $55.06
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/being-mortal-medicine-and-what-matters-in-the-end_512/index.html
+- 63 - 
+Book Name: A Murder Over a Girl: Justice, Gender, Junior High
+Price: $13.20
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-murder-over-a-girl-justice-gender-junior-high_511/index.html
+- 64 - 
+Book Name: For the Love: Fighting for Grace in a World of Impossible Standards
+Price: $45.13
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/for-the-love-fighting-for-grace-in-a-world-of-impossible-standards_467/index.html
+- 65 - 
+Book Name: Finding God in the Ruins: How God Redeems Pain
+Price: $46.64
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/finding-god-in-the-ruins-how-god-redeems-pain_466/index.html
+- 66 - 
+Book Name: The Man Who Mistook His Wife for a Hat and Other Clinical Tales
+Price: $59.45
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales_451/index.html
+- 67 - 
+Book Name: In Cold Blood
+Price: $49.98
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/in-cold-blood_432/index.html
+- 68 - 
+Book Name: Girl, Interrupted
+Price: $42.14
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/girl-interrupted_429/index.html
+- 69 - 
+Book Name: Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis
+Price: $48.67
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/why-save-the-bankers-and-other-essays-on-our-economic-and-political-crisis_418/index.html
+- 70 - 
+Book Name: Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut
+Price: $25.15
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/talking-to-girls-about-duran-duran-one-young-mans-quest-for-true-love-and-a-cooler-haircut_394/index.html
+- 71 - 
+Book Name: My Mother Was Nuts
+Price: $31.63
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/my-mother-was-nuts_388/index.html
+- 72 - 
+Book Name: Data, A Love Story: How I Gamed Online Dating to Meet My Match
+Price: $32.35
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/data-a-love-story-how-i-gamed-online-dating-to-meet-my-match_367/index.html
+- 73 - 
+Book Name: The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe
+Price: $38.71
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-jazz-of-physics-the-secret-link-between-music-and-the-structure-of-the-universe_350/index.html
+- 74 - 
+Book Name: The Gunning of America: Business and the Making of American Gun Culture
+Price: $16.81
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-gunning-of-america-business-and-the-making-of-american-gun-culture_347/index.html
+- 75 - 
+Book Name: The Geography of Bliss: One Grump's Search for the Happiest Places in the World
+Price: $28.23
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-geography-of-bliss-one-grumps-search-for-the-happiest-places-in-the-world_346/index.html
+- 76 - 
+Book Name: God Is Not Great: How Religion Poisons Everything
+Price: $27.80
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/god-is-not-great-how-religion-poisons-everything_323/index.html
+- 77 - 
+Book Name: We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America
+Price: $31.95
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/we-the-people-the-modern-day-figures-who-have-reshaped-and-affirmed-the-founding-fathers-vision-of-america_302/index.html
+- 78 - 
+Book Name: Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination
+Price: $50.66
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/very-good-lives-the-fringe-benefits-of-failure-and-the-importance-of-imagination_298/index.html
+- 79 - 
+Book Name: Unstuffed: Decluttering Your Home, Mind, and Soul
+Price: $58.09
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/unstuffed-decluttering-your-home-mind-and-soul_296/index.html
+- 80 - 
+Book Name: Under the Banner of Heaven: A Story of Violent Faith
+Price: $30.00
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/under-the-banner-of-heaven-a-story-of-violent-faith_295/index.html
+- 81 - 
+Book Name: Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland
+Price: $53.51
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/trespassing-across-america-one-mans-epic-never-done-before-and-sort-of-illegal-hike-across-the-heartland_291/index.html
+- 82 - 
+Book Name: The Name of God is Mercy
+Price: $37.25
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-name-of-god-is-mercy_264/index.html
+- 83 - 
+Book Name: Stiff: The Curious Lives of Human Cadavers
+Price: $36.74
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/stiff-the-curious-lives-of-human-cadavers_226/index.html
+- 84 - 
+Book Name: Spilled Milk: Based on a True Story
+Price: $49.51
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/spilled-milk-based-on-a-true-story_225/index.html
+- 85 - 
+Book Name: Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars
+Price: $41.67
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/rise-of-the-rocket-girls-the-women-who-propelled-us-from-missiles-to-the-moon-to-mars_213/index.html
+- 86 - 
+Book Name: Outliers: The Story of Success
+Price: $14.16
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/outliers-the-story-of-success_204/index.html
+- 87 - 
+Book Name: Notes from a Small Island (Notes From a Small Island #1)
+Price: $40.17
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/notes-from-a-small-island-notes-from-a-small-island-1_200/index.html
+- 88 - 
+Book Name: Night (The Night Trilogy #1)
+Price: $13.51
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/night-the-night-trilogy-1_199/index.html
+- 89 - 
+Book Name: Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing
+Price: $57.83
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/miracles-from-heaven-a-little-girl-her-journey-to-heaven-and-her-amazing-story-of-healing_195/index.html
+- 90 - 
+Book Name: Letter to a Christian Nation
+Price: $22.20
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/letter-to-a-christian-nation_186/index.html
+- 91 - 
+Book Name: Let's Pretend This Never Happened: A Mostly True Memoir
+Price: $45.11
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/lets-pretend-this-never-happened-a-mostly-true-memoir_185/index.html
+- 92 - 
+Book Name: It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond
+Price: $42.38
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/its-never-too-late-to-begin-again-discovering-creativity-and-meaning-at-midlife-and-beyond_179/index.html
+- 93 - 
+Book Name: Into the Wild
+Price: $56.70
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/into-the-wild_177/index.html
+- 94 - 
+Book Name: In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin
+Price: $28.85
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/in-the-garden-of-beasts-love-terror-and-an-american-family-in-hitlers-berlin_175/index.html
+- 95 - 
+Book Name: I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban
+Price: $28.88
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/i-am-malala-the-girl-who-stood-up-for-education-and-was-shot-by-the-taliban_172/index.html
+- 96 - 
+Book Name: Gratitude
+Price: $26.66
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/gratitude_163/index.html
+- 97 - 
+Book Name: Disrupted: My Misadventure in the Start-Up Bubble
+Price: $15.28
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/disrupted-my-misadventure-in-the-start-up-bubble_148/index.html
+- 98 - 
+Book Name: Brave Enough
+Price: $51.32
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/brave-enough_135/index.html
+- 99 - 
+Book Name: Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen
+Price: $27.35
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen_133/index.html
+- 100 - 
+Book Name: Blink: The Power of Thinking Without Thinking
+Price: $21.74
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/blink-the-power-of-thinking-without-thinking_132/index.html
+- 101 - 
+Book Name: Black Flags: The Rise of ISIS
+Price: $40.87
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/black-flags-the-rise-of-isis_131/index.html
+- 102 - 
+Book Name: Are We Smart Enough to Know How Smart Animals Are?
+Price: $56.58
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/are-we-smart-enough-to-know-how-smart-animals-are_121/index.html
+- 103 - 
+Book Name: A Walk in the Woods: Rediscovering America on the Appalachian Trail
+Price: $30.48
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-walk-in-the-woods-rediscovering-america-on-the-appalachian-trail_118/index.html
+- 104 - 
+Book Name: The Suffragettes (Little Black Classics, #96)
+Price: $11.89
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-suffragettes-little-black-classics-96_112/index.html
+- 105 - 
+Book Name: Kindle Paperwhite User's Guide
+Price: $34.00
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/kindle-paperwhite-users-guide_103/index.html
+- 106 - 
+Book Name: H is for Hawk
+Price: $57.42
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/h-is-for-hawk_102/index.html
+- 107 - 
+Book Name: Travels with Charley: In Search of America
+Price: $57.82
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/travels-with-charley-in-search-of-america_90/index.html
+- 108 - 
+Book Name: The Tumor
+Price: $41.56
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-tumor_85/index.html
+- 109 - 
+Book Name: The End of the Jesus Era (An Investigation #1)
+Price: $14.40
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-end-of-the-jesus-era-an-investigation-1_64/index.html
+- 110 - 
+Book Name: Eat, Pray, Love
+Price: $51.32
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/eat-pray-love_16/index.html

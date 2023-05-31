@@ -1,0 +1,130 @@
+- 1 - 
+Book Name: Tipping the Velvet
+Price: $53.74
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+- 2 - 
+Book Name: Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton
+Price: $29.69
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/forever-and-forever-the-courtship-of-henry-longfellow-and-fanny-appleton_894/index.html
+- 3 - 
+Book Name: A Flight of Arrows (The Pathfinders #2)
+Price: $55.53
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-flight-of-arrows-the-pathfinders-2_876/index.html
+- 4 - 
+Book Name: The House by the Lake
+Price: $36.95
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-house-by-the-lake_846/index.html
+- 5 - 
+Book Name: Mrs. Houdini
+Price: $30.25
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/mrs-houdini_821/index.html
+- 6 - 
+Book Name: The Marriage of Opposites
+Price: $28.08
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-marriage-of-opposites_759/index.html
+- 7 - 
+Book Name: Glory over Everything: Beyond The Kitchen House
+Price: $45.84
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/glory-over-everything-beyond-the-kitchen-house_696/index.html
+- 8 - 
+Book Name: Love, Lies and Spies
+Price: $20.55
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/love-lies-and-spies_622/index.html
+- 9 - 
+Book Name: A Paris Apartment
+Price: $39.01
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-paris-apartment_612/index.html
+- 10 - 
+Book Name: Lilac Girls
+Price: $17.28
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/lilac-girls_597/index.html
+- 11 - 
+Book Name: The Constant Princess (The Tudor Court #1)
+Price: $16.62
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-constant-princess-the-tudor-court-1_493/index.html
+- 12 - 
+Book Name: The Invention of Wings
+Price: $37.34
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-invention-of-wings_448/index.html
+- 13 - 
+Book Name: World Without End (The Pillars of the Earth #2)
+Price: $32.97
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/world-without-end-the-pillars-of-the-earth-2_420/index.html
+- 14 - 
+Book Name: The Passion of Dolssa
+Price: $28.32
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-passion-of-dolssa_351/index.html
+- 15 - 
+Book Name: Girl With a Pearl Earring
+Price: $26.77
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/girl-with-a-pearl-earring_322/index.html
+- 16 - 
+Book Name: Voyager (Outlander #3)
+Price: $21.07
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/voyager-outlander-3_299/index.html
+- 17 - 
+Book Name: The Red Tent
+Price: $35.66
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-red-tent_273/index.html
+- 18 - 
+Book Name: The Last Painting of Sara de Vos
+Price: $55.55
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-last-painting-of-sara-de-vos_259/index.html
+- 19 - 
+Book Name: The Guernsey Literary and Potato Peel Pie Society
+Price: $49.53
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-guernsey-literary-and-potato-peel-pie-society_253/index.html
+- 20 - 
+Book Name: Girl in the Blue Coat
+Price: $46.83
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/girl-in-the-blue-coat_160/index.html
+- 21 - 
+Book Name: Between Shades of Gray
+Price: $20.79
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/between-shades-of-gray_128/index.html
+- 22 - 
+Book Name: While You Were Mine
+Price: $41.32
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/while-you-were-mine_97/index.html
+- 23 - 
+Book Name: The Secret Healer
+Price: $34.56
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-secret-healer_80/index.html
+- 24 - 
+Book Name: Starlark
+Price: $25.83
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/starlark_56/index.html
+- 25 - 
+Book Name: Lost Among the Living
+Price: $27.70
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/lost-among-the-living_31/index.html
+- 26 - 
+Book Name: A Spy's Devotion (The Regency Spies of London #1)
+Price: $16.97
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-spys-devotion-the-regency-spies-of-london-1_3/index.html

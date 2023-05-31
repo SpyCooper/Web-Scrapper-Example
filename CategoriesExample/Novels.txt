@@ -1,0 +1,5 @@
+- 1 - 
+Book Name: Suzie Snowflake: One beautiful flake (a self-esteem story)
+Price: $54.81
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/suzie-snowflake-one-beautiful-flake-a-self-esteem-story_568/index.html

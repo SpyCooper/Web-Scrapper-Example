@@ -1,0 +1,25 @@
+- 1 - 
+Book Name: The Book of Basketball: The NBA According to The Sports Guy
+Price: $44.84
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-book-of-basketball-the-nba-according-to-the-sports-guy_232/index.html
+- 2 - 
+Book Name: Friday Night Lights: A Town, a Team, and a Dream
+Price: $51.22
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/friday-night-lights-a-town-a-team-and-a-dream_158/index.html
+- 3 - 
+Book Name: Sugar Rush (Offensive Line #2)
+Price: $24.42
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/sugar-rush-offensive-line-2_108/index.html
+- 4 - 
+Book Name: Settling the Score (The Summer Games #1)
+Price: $44.91
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/settling-the-score-the-summer-games-1_50/index.html
+- 5 - 
+Book Name: Icing (Aces Hockey #2)
+Price: $40.44
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/icing-aces-hockey-2_25/index.html

@@ -1,0 +1,60 @@
+- 1 - 
+Book Name: The Dirty Little Secrets of Getting Your Dream Job
+Price: $33.34
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+- 2 - 
+Book Name: The Third Wave: An Entrepreneurâs Vision of the Future
+Price: $12.61
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-third-wave-an-entrepreneurs-vision-of-the-future_862/index.html
+- 3 - 
+Book Name: The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job
+Price: $27.55
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-10-entrepreneur-live-your-startup-dream-without-quitting-your-day-job_836/index.html
+- 4 - 
+Book Name: Shoe Dog: A Memoir by the Creator of NIKE
+Price: $23.99
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/shoe-dog-a-memoir-by-the-creator-of-nike_831/index.html
+- 5 - 
+Book Name: Made to Stick: Why Some Ideas Survive and Others Die
+Price: $38.85
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/made-to-stick-why-some-ideas-survive-and-others-die_715/index.html
+- 6 - 
+Book Name: Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two
+Price: $43.14
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/quench-your-own-thirst-business-lessons-learned-over-a-beer-or-two_629/index.html
+- 7 - 
+Book Name: The Art of Startup Fundraising
+Price: $21.00
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-art-of-startup-fundraising_606/index.html
+- 8 - 
+Book Name: Born for This: How to Find the Work You Were Meant to Do
+Price: $21.59
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/born-for-this-how-to-find-the-work-you-were-meant-to-do_588/index.html
+- 9 - 
+Book Name: The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It
+Price: $36.91
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-e-myth-revisited-why-most-small-businesses-dont-work-and-what-to-do-about-it_545/index.html
+- 10 - 
+Book Name: Rich Dad, Poor Dad
+Price: $51.74
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/rich-dad-poor-dad_483/index.html
+- 11 - 
+Book Name: The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
+Price: $33.92
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-lean-startup-how-todays-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses_260/index.html
+- 12 - 
+Book Name: Rework
+Price: $44.88
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/rework_212/index.html

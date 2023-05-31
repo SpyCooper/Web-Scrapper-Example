@@ -1,0 +1,55 @@
+- 1 - 
+Book Name: Sophie's World
+Price: $15.94
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/sophies-world_966/index.html
+- 2 - 
+Book Name: The Death of Humanity: and the Case for Life
+Price: $58.11
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-death-of-humanity-and-the-case-for-life_932/index.html
+- 3 - 
+Book Name: The Stranger
+Price: $17.44
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-stranger_861/index.html
+- 4 - 
+Book Name: Proofs of God: Classical Arguments from Tertullian to Barth
+Price: $54.21
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/proofs-of-god-classical-arguments-from-tertullian-to-barth_538/index.html
+- 5 - 
+Book Name: Kierkegaard: A Christian Missionary to Christians
+Price: $47.13
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/kierkegaard-a-christian-missionary-to-christians_527/index.html
+- 6 - 
+Book Name: At The Existentialist CafÃ©: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others
+Price: $29.93
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/at-the-existentialist-cafe-freedom-being-and-apricot-cocktails-with-jean-paul-sartre-simone-de-beauvoir-albert-camus-martin-heidegger-edmund-husserl-karl-jaspers-maurice-merleau-ponty-and-others_459/index.html
+- 7 - 
+Book Name: Critique of Pure Reason
+Price: $20.75
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/critique-of-pure-reason_366/index.html
+- 8 - 
+Book Name: Run, Spot, Run: The Ethics of Keeping Pets
+Price: $20.02
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/run-spot-run-the-ethics-of-keeping-pets_106/index.html
+- 9 - 
+Book Name: The Nicomachean Ethics
+Price: $36.34
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-nicomachean-ethics_75/index.html
+- 10 - 
+Book Name: Meditations
+Price: $25.89
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/meditations_33/index.html
+- 11 - 
+Book Name: Beyond Good and Evil
+Price: $43.38
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/beyond-good-and-evil_6/index.html

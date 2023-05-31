@@ -1,0 +1,760 @@
+- 1 - 
+Book Name: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+Price: $17.93
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+- 2 - 
+Book Name: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+Price: $22.60
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+- 3 - 
+Book Name: Starving Hearts (Triangular Trade Trilogy, #1)
+Price: $13.99
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html
+- 4 - 
+Book Name: America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana
+Price: $22.50
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html
+- 5 - 
+Book Name: Aladdin and His Wonderful Lamp
+Price: $53.13
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html
+- 6 - 
+Book Name: Penny Maybe
+Price: $33.29
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/penny-maybe_965/index.html
+- 7 - 
+Book Name: Maude (1883-1993):She Grew Up with the country
+Price: $18.02
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html
+- 8 - 
+Book Name: The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer
+Price: $20.59
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html
+- 9 - 
+Book Name: Soul Reader
+Price: $39.58
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/soul-reader_926/index.html
+- 10 - 
+Book Name: Bossypants
+Price: $49.46
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/bossypants_883/index.html
+- 11 - 
+Book Name: A World of Flavor: Your Gluten Free Passport
+Price: $42.95
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-world-of-flavor-your-gluten-free-passport_879/index.html
+- 12 - 
+Book Name: A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations
+Price: $56.76
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-piece-of-sky-a-grain-of-rice-a-memoir-in-four-meditations_878/index.html
+- 13 - 
+Book Name: Tracing Numbers on a Train
+Price: $41.60
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/tracing-numbers-on-a-train_869/index.html
+- 14 - 
+Book Name: Thirteen Reasons Why
+Price: $52.72
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/thirteen-reasons-why_866/index.html
+- 15 - 
+Book Name: The Secret (The Secret #1)
+Price: $27.37
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-secret-the-secret-1_859/index.html
+- 16 - 
+Book Name: The Psychopath Test: A Journey Through the Madness Industry
+Price: $36.00
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-psychopath-test-a-journey-through-the-madness-industry_857/index.html
+- 17 - 
+Book Name: The Kite Runner
+Price: $41.82
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-kite-runner_847/index.html
+- 18 - 
+Book Name: The Girl on the Train
+Price: $55.02
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-girl-on-the-train_844/index.html
+- 19 - 
+Book Name: The Emerald Mystery
+Price: $23.15
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-emerald-mystery_842/index.html
+- 20 - 
+Book Name: The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.
+Price: $32.00
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-bridge-to-consciousness-im-writing-the-bridge-between-science-and-our-old-and-new-beliefs_840/index.html
+- 21 - 
+Book Name: The Art of War
+Price: $33.34
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-art-of-war_838/index.html
+- 22 - 
+Book Name: Secrets and Lace (Fatal Hearts #1)
+Price: $20.27
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/secrets-and-lace-fatal-hearts-1_829/index.html
+- 23 - 
+Book Name: Romero and Juliet: A Tragic Tale of Love and Zombies
+Price: $36.94
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/romero-and-juliet-a-tragic-tale-of-love-and-zombies_827/index.html
+- 24 - 
+Book Name: Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form
+Price: $41.06
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/poses-for-artists-volume-1-dynamic-and-sitting-poses-an-essential-reference-for-figure-drawing-and-the-human-form_825/index.html
+- 25 - 
+Book Name: Miss Peregrineâs Home for Peculiar Children (Miss Peregrineâs Peculiar Children #1)
+Price: $10.76
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/miss-peregrines-home-for-peculiar-children-miss-peregrines-peculiar-children-1_819/index.html
+- 26 - 
+Book Name: Large Print Heart of the Pride
+Price: $19.15
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/large-print-heart-of-the-pride_815/index.html
+- 27 - 
+Book Name: Grumbles
+Price: $22.16
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/grumbles_812/index.html
+- 28 - 
+Book Name: First Steps for New Christians (Print Edition)
+Price: $29.00
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/first-steps-for-new-christians-print-edition_808/index.html
+- 29 - 
+Book Name: Eureka Trivia 6.0
+Price: $54.59
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/eureka-trivia-60_805/index.html
+- 30 - 
+Book Name: Drive: The Surprising Truth About What Motivates Us
+Price: $34.95
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/drive-the-surprising-truth-about-what-motivates-us_804/index.html
+- 31 - 
+Book Name: Done Rubbed Out (Reightman & Bailey #1)
+Price: $37.72
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/done-rubbed-out-reightman-bailey-1_803/index.html
+- 32 - 
+Book Name: Beauty Restored (Riley Family Legacy Novellas #3)
+Price: $11.11
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/beauty-restored-riley-family-legacy-novellas-3_794/index.html
+- 33 - 
+Book Name: Ayumi's Violin
+Price: $15.48
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/ayumis-violin_791/index.html
+- 34 - 
+Book Name: Anonymous
+Price: $46.82
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/anonymous_790/index.html
+- 35 - 
+Book Name: Amy Meets the Saints and Sages
+Price: $18.46
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/amy-meets-the-saints-and-sages_789/index.html
+- 36 - 
+Book Name: Amatus
+Price: $50.54
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/amatus_787/index.html
+- 37 - 
+Book Name: V for Vendetta (V for Vendetta Complete)
+Price: $37.10
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/v-for-vendetta-v-for-vendetta-complete_776/index.html
+- 38 - 
+Book Name: Unbroken: A World War II Story of Survival, Resilience, and Redemption
+Price: $45.95
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/unbroken-a-world-war-ii-story-of-survival-resilience-and-redemption_774/index.html
+- 39 - 
+Book Name: The Wright Brothers
+Price: $56.80
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-wright-brothers_769/index.html
+- 40 - 
+Book Name: The Songs of the Gods
+Price: $44.48
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-songs-of-the-gods_763/index.html
+- 41 - 
+Book Name: The Rosie Project (Don Tillman #1)
+Price: $54.04
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-rosie-project-don-tillman-1_761/index.html
+- 42 - 
+Book Name: The Power of Habit: Why We Do What We Do in Life and Business
+Price: $16.88
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-power-of-habit-why-we-do-what-we-do-in-life-and-business_760/index.html
+- 43 - 
+Book Name: Steve Jobs
+Price: $39.50
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/steve-jobs_737/index.html
+- 44 - 
+Book Name: Luckiest Girl Alive
+Price: $49.83
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/luckiest-girl-alive_713/index.html
+- 45 - 
+Book Name: Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments
+Price: $46.91
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/living-leadership-by-insight-a-good-leader-achieves-a-great-leader-builds-monuments_709/index.html
+- 46 - 
+Book Name: Lady Midnight (The Dark Artifices #1)
+Price: $16.28
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/lady-midnight-the-dark-artifices-1_707/index.html
+- 47 - 
+Book Name: Hush, Hush (Hush, Hush #1)
+Price: $47.02
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/hush-hush-hush-hush-1_701/index.html
+- 48 - 
+Book Name: Greek Mythic History
+Price: $10.23
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/greek-mythic-history_698/index.html
+- 49 - 
+Book Name: Every Last Word
+Price: $46.47
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/every-last-word_693/index.html
+- 50 - 
+Book Name: Daily Fantasy Sports
+Price: $36.58
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/daily-fantasy-sports_683/index.html
+- 51 - 
+Book Name: Clockwork Angel (The Infernal Devices #1)
+Price: $44.14
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/clockwork-angel-the-infernal-devices-1_679/index.html
+- 52 - 
+Book Name: City of Fallen Angels (The Mortal Instruments #4)
+Price: $11.23
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/city-of-fallen-angels-the-mortal-instruments-4_677/index.html
+- 53 - 
+Book Name: City of Bones (The Mortal Instruments #1)
+Price: $43.28
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/city-of-bones-the-mortal-instruments-1_676/index.html
+- 54 - 
+Book Name: City of Ashes (The Mortal Instruments #2)
+Price: $47.27
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/city-of-ashes-the-mortal-instruments-2_675/index.html
+- 55 - 
+Book Name: Carry On, Warrior: Thoughts on Life Unarmed
+Price: $31.85
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/carry-on-warrior-thoughts-on-life-unarmed_672/index.html
+- 56 - 
+Book Name: Carrie
+Price: $46.23
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/carrie_671/index.html
+- 57 - 
+Book Name: Angels & Demons (Robert Langdon #1)
+Price: $51.48
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/angels-demons-robert-langdon-1_661/index.html
+- 58 - 
+Book Name: The Three Searches, Meaning, and the Story
+Price: $13.33
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-three-searches-meaning-and-the-story_649/index.html
+- 59 - 
+Book Name: Raspberry Pi Electronics Projects for the Evil Genius
+Price: $49.67
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/raspberry-pi-electronics-projects-for-the-evil-genius_630/index.html
+- 60 - 
+Book Name: How to Speak Golf: An Illustrated Guide to Links Lingo
+Price: $58.32
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/how-to-speak-golf-an-illustrated-guide-to-links-lingo_621/index.html
+- 61 - 
+Book Name: Eleanor & Park
+Price: $56.51
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/eleanor-park_616/index.html
+- 62 - 
+Book Name: Troublemaker: Surviving Hollywood and Scientology
+Price: $48.39
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/troublemaker-surviving-hollywood-and-scientology_610/index.html
+- 63 - 
+Book Name: Adultery
+Price: $20.88
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/adultery_586/index.html
+- 64 - 
+Book Name: Unlimited Intuition Now
+Price: $58.87
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/unlimited-intuition-now_578/index.html
+- 65 - 
+Book Name: Underlying Notes
+Price: $11.82
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/underlying-notes_577/index.html
+- 66 - 
+Book Name: The New Brand You: Your New Image Makes the Sale for You
+Price: $44.05
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-new-brand-you-your-new-image-makes-the-sale-for-you_575/index.html
+- 67 - 
+Book Name: The Flowers Lied
+Price: $16.68
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-flowers-lied_573/index.html
+- 68 - 
+Book Name: NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond
+Price: $10.41
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/nano-what-now-finding-your-editing-process-revising-your-nanowrimo-book-and-building-a-writing-career-through-publishing-and-beyond_566/index.html
+- 69 - 
+Book Name: Modern Day Fables
+Price: $47.44
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/modern-day-fables_565/index.html
+- 70 - 
+Book Name: The Unlikely Pilgrimage of Harold Fry (Harold Fry #1)
+Price: $43.62
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-unlikely-pilgrimage-of-harold-fry-harold-fry-1_551/index.html
+- 71 - 
+Book Name: The Martian (The Martian #1)
+Price: $41.39
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-martian-the-martian-1_548/index.html
+- 72 - 
+Book Name: Left Behind (Left Behind #1)
+Price: $40.72
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/left-behind-left-behind-1_529/index.html
+- 73 - 
+Book Name: John Vassos: Industrial Design for Modern Life
+Price: $20.22
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/john-vassos-industrial-design-for-modern-life_526/index.html
+- 74 - 
+Book Name: I'll Give You the Sun
+Price: $56.48
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/ill-give-you-the-sun_525/index.html
+- 75 - 
+Book Name: Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back
+Price: $52.86
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/heaven-is-for-real-a-little-boys-astounding-story-of-his-trip-to-heaven-and-back_520/index.html
+- 76 - 
+Book Name: Ender's Game (The Ender Quintet #1)
+Price: $43.64
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/enders-game-the-ender-quintet-1_518/index.html
+- 77 - 
+Book Name: Death by Leisure: A Cautionary Tale
+Price: $37.51
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/death-by-leisure-a-cautionary-tale_516/index.html
+- 78 - 
+Book Name: Wildlife of New York: A Five-Borough Coloring Book
+Price: $22.14
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/wildlife-of-new-york-a-five-borough-coloring-book_507/index.html
+- 79 - 
+Book Name: The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible
+Price: $34.72
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-year-of-living-biblically-one-mans-humble-quest-to-follow-the-bible-as-literally-as-possible_502/index.html
+- 80 - 
+Book Name: The Great Gatsby
+Price: $36.05
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-great-gatsby_498/index.html
+- 81 - 
+Book Name: The Good Girl
+Price: $49.03
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-good-girl_497/index.html
+- 82 - 
+Book Name: The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+Price: $33.17
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-7-habits-of-highly-effective-people-powerful-lessons-in-personal-change_489/index.html
+- 83 - 
+Book Name: Steal Like an Artist: 10 Things Nobody Told You About Being Creative
+Price: $20.90
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/steal-like-an-artist-10-things-nobody-told-you-about-being-creative_487/index.html
+- 84 - 
+Book Name: Life of Pi
+Price: $13.22
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/life-of-pi_475/index.html
+- 85 - 
+Book Name: The Sound Of Love
+Price: $57.84
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-sound-of-love_455/index.html
+- 86 - 
+Book Name: The Perks of Being a Wallflower
+Price: $55.02
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-perks-of-being-a-wallflower_453/index.html
+- 87 - 
+Book Name: The Makings of a Fatherless Child
+Price: $31.58
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-makings-of-a-fatherless-child_450/index.html
+- 88 - 
+Book Name: The Hobbit (Middle-Earth Universe)
+Price: $17.80
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-hobbit-middle-earth-universe_447/index.html
+- 89 - 
+Book Name: The Fellowship of the Ring (The Lord of the Rings #1)
+Price: $10.27
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-fellowship-of-the-ring-the-lord-of-the-rings-1_442/index.html
+- 90 - 
+Book Name: Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman
+Price: $30.60
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/ship-leaves-harbor-essays-on-travel-by-a-recovering-journeyman_438/index.html
+- 91 - 
+Book Name: Musicophilia: Tales of Music and the Brain
+Price: $46.58
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/musicophilia-tales-of-music-and-the-brain_436/index.html
+- 92 - 
+Book Name: What If?: Serious Scientific Answers to Absurd Hypothetical Questions
+Price: $53.68
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/what-if-serious-scientific-answers-to-absurd-hypothetical-questions_416/index.html
+- 93 - 
+Book Name: The Fault in Our Stars
+Price: $47.22
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-fault-in-our-stars_403/index.html
+- 94 - 
+Book Name: The Dream Thieves (The Raven Cycle #2)
+Price: $34.50
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-dream-thieves-the-raven-cycle-2_400/index.html
+- 95 - 
+Book Name: The 5th Wave (The 5th Wave #1)
+Price: $11.83
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-5th-wave-the-5th-wave-1_397/index.html
+- 96 - 
+Book Name: Shiver (The Wolves of Mercy Falls #1)
+Price: $16.23
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/shiver-the-wolves-of-mercy-falls-1_392/index.html
+- 97 - 
+Book Name: Remember Me?
+Price: $11.48
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/remember-me_391/index.html
+- 98 - 
+Book Name: If I Stay (If I Stay #1)
+Price: $38.13
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/if-i-stay-if-i-stay-1_379/index.html
+- 99 - 
+Book Name: I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1)
+Price: $36.55
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/i-know-why-the-caged-bird-sings-maya-angelous-autobiography-1_378/index.html
+- 100 - 
+Book Name: Harry Potter and the Deathly Hallows (Harry Potter #7)
+Price: $23.32
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/harry-potter-and-the-deathly-hallows-harry-potter-7_377/index.html
+- 101 - 
+Book Name: Fool Me Once
+Price: $16.96
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/fool-me-once_374/index.html
+- 102 - 
+Book Name: Drama
+Price: $38.70
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/drama_371/index.html
+- 103 - 
+Book Name: Blue Lily, Lily Blue (The Raven Cycle #3)
+Price: $34.13
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/blue-lily-lily-blue-the-raven-cycle-3_364/index.html
+- 104 - 
+Book Name: Alight (The Generations Trilogy #2)
+Price: $58.59
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/alight-the-generations-trilogy-2_360/index.html
+- 105 - 
+Book Name: Vogue Colors A to Z: A Fashion Coloring Book
+Price: $52.35
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/vogue-colors-a-to-z-a-fashion-coloring-book_355/index.html
+- 106 - 
+Book Name: The Shining (The Shining #1)
+Price: $27.88
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-shining-the-shining-1_354/index.html
+- 107 - 
+Book Name: The Hunger Games (The Hunger Games #1)
+Price: $29.85
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-hunger-games-the-hunger-games-1_349/index.html
+- 108 - 
+Book Name: Outlander (Outlander #1)
+Price: $19.67
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/outlander-outlander-1_338/index.html
+- 109 - 
+Book Name: Mockingjay (The Hunger Games #3)
+Price: $20.44
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/mockingjay-the-hunger-games-3_333/index.html
+- 110 - 
+Book Name: Harry Potter and the Sorcerer's Stone (Harry Potter #1)
+Price: $13.90
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/harry-potter-and-the-sorcerers-stone-harry-potter-1_329/index.html
+- 111 - 
+Book Name: Confessions of a Shopaholic (Shopaholic #1)
+Price: $48.94
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/confessions-of-a-shopaholic-shopaholic-1_318/index.html
+- 112 - 
+Book Name: Zero History (Blue Ant #3)
+Price: $34.77
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/zero-history-blue-ant-3_308/index.html
+- 113 - 
+Book Name: World War Z: An Oral History of the Zombie War
+Price: $21.80
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/world-war-z-an-oral-history-of-the-zombie-war_306/index.html
+- 114 - 
+Book Name: Wild: From Lost to Found on the Pacific Crest Trail
+Price: $46.02
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/wild-from-lost-to-found-on-the-pacific-crest-trail_305/index.html
+- 115 - 
+Book Name: Where'd You Go, Bernadette
+Price: $18.13
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/whered-you-go-bernadette_304/index.html
+- 116 - 
+Book Name: Twilight (Twilight #1)
+Price: $41.93
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/twilight-twilight-1_293/index.html
+- 117 - 
+Book Name: The Paris Wife
+Price: $36.80
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-paris-wife_269/index.html
+- 118 - 
+Book Name: The Maze Runner (The Maze Runner #1)
+Price: $20.93
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-maze-runner-the-maze-runner-1_263/index.html
+- 119 - 
+Book Name: The Lover's Dictionary
+Price: $58.09
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-lovers-dictionary_262/index.html
+- 120 - 
+Book Name: The Goldfinch
+Price: $43.58
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-goldfinch_252/index.html
+- 121 - 
+Book Name: The Giver (The Giver Quartet #1)
+Price: $12.30
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-giver-the-giver-quartet-1_251/index.html
+- 122 - 
+Book Name: The Girl Who Played with Fire (Millennium Trilogy #2)
+Price: $22.14
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-girl-who-played-with-fire-millennium-trilogy-2_249/index.html
+- 123 - 
+Book Name: The Demon-Haunted World: Science as a Candle in the Dark
+Price: $52.25
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-demon-haunted-world-science-as-a-candle-in-the-dark_242/index.html
+- 124 - 
+Book Name: The Book Thief
+Price: $53.49
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-book-thief_233/index.html
+- 125 - 
+Book Name: The Autobiography of Malcolm X
+Price: $23.43
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-autobiography-of-malcolm-x_230/index.html
+- 126 - 
+Book Name: Shopaholic & Baby (Shopaholic #5)
+Price: $46.45
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/shopaholic-baby-shopaholic-5_221/index.html
+- 127 - 
+Book Name: Quiet: The Power of Introverts in a World That Can't Stop Talking
+Price: $43.55
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/quiet-the-power-of-introverts-in-a-world-that-cant-stop-talking_208/index.html
+- 128 - 
+Book Name: Packing for Mars: The Curious Science of Life in the Void
+Price: $56.68
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/packing-for-mars-the-curious-science-of-life-in-the-void_205/index.html
+- 129 - 
+Book Name: Orange Is the New Black
+Price: $24.61
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/orange-is-the-new-black_202/index.html
+- 130 - 
+Book Name: One for the Money (Stephanie Plum #1)
+Price: $32.87
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/one-for-the-money-stephanie-plum-1_201/index.html
+- 131 - 
+Book Name: Morning Star (Red Rising #3)
+Price: $29.40
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/morning-star-red-rising-3_196/index.html
+- 132 - 
+Book Name: Life After Life
+Price: $26.13
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/life-after-life_187/index.html
+- 133 - 
+Book Name: Lean In: Women, Work, and the Will to Lead
+Price: $25.02
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/lean-in-women-work-and-the-will-to-lead_183/index.html
+- 134 - 
+Book Name: Is Everyone Hanging Out Without Me? (And Other Concerns)
+Price: $20.11
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/is-everyone-hanging-out-without-me-and-other-concerns_178/index.html
+- 135 - 
+Book Name: Gone Girl
+Price: $37.60
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/gone-girl_162/index.html
+- 136 - 
+Book Name: Fellside
+Price: $38.62
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/fellside_155/index.html
+- 137 - 
+Book Name: Eclipse (Twilight #3)
+Price: $18.74
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/eclipse-twilight-3_152/index.html
+- 138 - 
+Book Name: Dracula
+Price: $52.62
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/dracula_150/index.html
+- 139 - 
+Book Name: Dead Wake: The Last Crossing of the Lusitania
+Price: $39.24
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/dead-wake-the-last-crossing-of-the-lusitania_147/index.html
+- 140 - 
+Book Name: David and Goliath: Underdogs, Misfits, and the Art of Battling Giants
+Price: $17.81
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/david-and-goliath-underdogs-misfits-and-the-art-of-battling-giants_146/index.html
+- 141 - 
+Book Name: Dark Places
+Price: $23.90
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/dark-places_144/index.html
+- 142 - 
+Book Name: Breaking Dawn (Twilight #4)
+Price: $35.28
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/breaking-dawn-twilight-4_136/index.html
+- 143 - 
+Book Name: Beautiful Creatures (Caster Chronicles #1)
+Price: $21.55
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/beautiful-creatures-caster-chronicles-1_125/index.html
+- 144 - 
+Book Name: A Visit from the Goon Squad
+Price: $14.08
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-visit-from-the-goon-squad_117/index.html
+- 145 - 
+Book Name: The Zombie Room
+Price: $19.69
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-zombie-room_87/index.html
+- 146 - 
+Book Name: The Name of the Wind (The Kingkiller Chronicle #1)
+Price: $50.59
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-name-of-the-wind-the-kingkiller-chronicle-1_74/index.html
+- 147 - 
+Book Name: Taking Shots (Assassins #1)
+Price: $18.88
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/taking-shots-assassins-1_57/index.html
+- 148 - 
+Book Name: Shatter Me (Shatter Me #1)
+Price: $42.40
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/shatter-me-shatter-me-1_53/index.html
+- 149 - 
+Book Name: Paradise Lost (Paradise #1)
+Price: $24.96
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/paradise-lost-paradise-1_45/index.html
+- 150 - 
+Book Name: On the Road (Duluoz Legend)
+Price: $32.36
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/on-the-road-duluoz-legend_40/index.html
+- 151 - 
+Book Name: Jane Eyre
+Price: $38.43
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/jane-eyre_27/index.html
+- 152 - 
+Book Name: Frankenstein
+Price: $38.00
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/frankenstein_20/index.html

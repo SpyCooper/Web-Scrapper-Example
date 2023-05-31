@@ -1,0 +1,15 @@
+- 1 - 
+Book Name: When We Collided
+Price: $31.77
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/when-we-collided_955/index.html
+- 2 - 
+Book Name: Someone Like You (The Harrisons #2)
+Price: $52.79
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/someone-like-you-the-harrisons-2_735/index.html
+- 3 - 
+Book Name: We Are All Completely Beside Ourselves
+Price: $24.04
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/we-are-all-completely-beside-ourselves_301/index.html

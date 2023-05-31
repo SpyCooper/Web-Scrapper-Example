@@ -1,0 +1,160 @@
+- 1 - 
+Book Name: Sharp Objects
+Price: $47.82
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+- 2 - 
+Book Name: In a Dark, Dark Wood
+Price: $19.63
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html
+- 3 - 
+Book Name: The Past Never Ends
+Price: $56.50
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html
+- 4 - 
+Book Name: A Murder in Time
+Price: $16.64
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html
+- 5 - 
+Book Name: The Murder of Roger Ackroyd (Hercule Poirot #4)
+Price: $44.10
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html
+- 6 - 
+Book Name: The Last Mile (Amos Decker #2)
+Price: $54.21
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html
+- 7 - 
+Book Name: That Darkness (Gardiner and Renner #1)
+Price: $13.92
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html
+- 8 - 
+Book Name: Tastes Like Fear (DI Marnie Rome #3)
+Price: $10.69
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/tastes-like-fear-di-marnie-rome-3_742/index.html
+- 9 - 
+Book Name: A Time of Torment (Charlie Parker #14)
+Price: $48.35
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-time-of-torment-charlie-parker-14_657/index.html
+- 10 - 
+Book Name: A Study in Scarlet (Sherlock Holmes #1)
+Price: $16.73
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html
+- 11 - 
+Book Name: Poisonous (Max Revere Novels #3)
+Price: $26.80
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/poisonous-max-revere-novels-3_627/index.html
+- 12 - 
+Book Name: Murder at the 42nd Street Library (Raymond Ambler #1)
+Price: $54.36
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html
+- 13 - 
+Book Name: Most Wanted
+Price: $35.28
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/most-wanted_623/index.html
+- 14 - 
+Book Name: Hide Away (Eve Duncan #20)
+Price: $11.84
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/hide-away-eve-duncan-20_620/index.html
+- 15 - 
+Book Name: Boar Island (Anna Pigeon #19)
+Price: $59.48
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html
+- 16 - 
+Book Name: The Widow
+Price: $27.26
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-widow_609/index.html
+- 17 - 
+Book Name: Playing with Fire
+Price: $13.71
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/playing-with-fire_602/index.html
+- 18 - 
+Book Name: What Happened on Beale Street (Secrets of the South Mysteries #2)
+Price: $25.37
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html
+- 19 - 
+Book Name: The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)
+Price: $52.30
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html
+- 20 - 
+Book Name: Delivering the Truth (Quaker Midwife Mystery #1)
+Price: $20.89
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html
+- 21 - 
+Book Name: The Mysterious Affair at Styles (Hercule Poirot #1)
+Price: $24.80
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html
+- 22 - 
+Book Name: In the Woods (Dublin Murder Squad #1)
+Price: $38.38
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/in-the-woods-dublin-murder-squad-1_433/index.html
+- 23 - 
+Book Name: The Silkworm (Cormoran Strike #2)
+Price: $23.05
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-silkworm-cormoran-strike-2_280/index.html
+- 24 - 
+Book Name: The Exiled
+Price: $43.45
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-exiled_247/index.html
+- 25 - 
+Book Name: The Cuckoo's Calling (Cormoran Strike #1)
+Price: $19.21
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-cuckoos-calling-cormoran-strike-1_239/index.html
+- 26 - 
+Book Name: Extreme Prey (Lucas Davenport #26)
+Price: $25.40
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/extreme-prey-lucas-davenport-26_154/index.html
+- 27 - 
+Book Name: Career of Evil (Cormoran Strike #3)
+Price: $24.72
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/career-of-evil-cormoran-strike-3_137/index.html
+- 28 - 
+Book Name: The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)
+Price: $57.70
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html
+- 29 - 
+Book Name: The Girl You Lost
+Price: $12.29
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-girl-you-lost_66/index.html
+- 30 - 
+Book Name: The Girl In The Ice (DCI Erika Foster #1)
+Price: $15.85
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-girl-in-the-ice-dci-erika-foster-1_65/index.html
+- 31 - 
+Book Name: Blood Defense (Samantha Brinkman #1)
+Price: $20.30
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/blood-defense-samantha-brinkman-1_8/index.html
+- 32 - 
+Book Name: 1st to Die (Women's Murder Club #1)
+Price: $53.98
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/1st-to-die-womens-murder-club-1_2/index.html

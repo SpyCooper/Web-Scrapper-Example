@@ -1,0 +1,35 @@
+- 1 - 
+Book Name: The Lucifer Effect: Understanding How Good People Turn Evil
+Price: $10.40
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-lucifer-effect-understanding-how-good-people-turn-evil_758/index.html
+- 2 - 
+Book Name: The Golden Condom: And Other Essays on Love Lost and Found
+Price: $39.43
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-golden-condom-and-other-essays-on-love-lost-and-found_637/index.html
+- 3 - 
+Book Name: It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle
+Price: $56.27
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/it-didnt-start-with-you-how-inherited-family-trauma-shapes-who-we-are-and-how-to-end-the-cycle_593/index.html
+- 4 - 
+Book Name: An Unquiet Mind: A Memoir of Moods and Madness
+Price: $21.30
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/an-unquiet-mind-a-memoir-of-moods-and-madness_422/index.html
+- 5 - 
+Book Name: Thinking, Fast and Slow
+Price: $21.14
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/thinking-fast-and-slow_289/index.html
+- 6 - 
+Book Name: Civilization and Its Discontents
+Price: $59.95
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/civilization-and-its-discontents_140/index.html
+- 7 - 
+Book Name: 8 Keys to Mental Health Through Exercise
+Price: $31.04
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/8-keys-to-mental-health-through-exercise_114/index.html

@@ -1,0 +1,25 @@
+- 1 - 
+Book Name: Louisa: The Extraordinary Life of Mrs. Adams
+Price: $16.85
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/louisa-the-extraordinary-life-of-mrs-adams_818/index.html
+- 2 - 
+Book Name: Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena
+Price: $21.15
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/setting-the-world-on-fire-the-brief-astonishing-life-of-st-catherine-of-siena_603/index.html
+- 3 - 
+Book Name: The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist
+Price: $39.55
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-faith-of-christopher-hitchens-the-restless-soul-of-the-worlds-most-notorious-atheist_495/index.html
+- 4 - 
+Book Name: Benjamin Franklin: An American Life
+Price: $48.19
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/benjamin-franklin-an-american-life_460/index.html
+- 5 - 
+Book Name: The Rise of Theodore Roosevelt (Theodore Roosevelt #1)
+Price: $42.57
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-rise-of-theodore-roosevelt-theodore-roosevelt-1_276/index.html

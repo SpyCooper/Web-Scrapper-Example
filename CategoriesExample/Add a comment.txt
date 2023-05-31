@@ -1,0 +1,335 @@
+- 1 - 
+Book Name: The Torch Is Passed: A Harding Family Story
+Price: $19.09
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-torch-is-passed-a-harding-family-story_945/index.html
+- 2 - 
+Book Name: The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy
+Price: $23.89
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937/index.html
+- 3 - 
+Book Name: The Art Forger
+Price: $40.76
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-art-forger_930/index.html
+- 4 - 
+Book Name: On a Midnight Clear
+Price: $14.07
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/on-a-midnight-clear_912/index.html
+- 5 - 
+Book Name: Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)
+Price: $53.90
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903/index.html
+- 6 - 
+Book Name: Shobu Samurai, Project Aryoku (#3)
+Price: $29.06
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/shobu-samurai-project-aryoku-3_830/index.html
+- 7 - 
+Book Name: Modern Romance
+Price: $28.26
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/modern-romance_820/index.html
+- 8 - 
+Book Name: The White Queen (The Cousins' War #1)
+Price: $25.91
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-white-queen-the-cousins-war-1_768/index.html
+- 9 - 
+Book Name: The Song of Achilles
+Price: $37.40
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-song-of-achilles_762/index.html
+- 10 - 
+Book Name: The Immortal Life of Henrietta Lacks
+Price: $40.67
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-immortal-life-of-henrietta-lacks_753/index.html
+- 11 - 
+Book Name: The Dovekeepers
+Price: $48.78
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-dovekeepers_748/index.html
+- 12 - 
+Book Name: More Than Music (Chasing the Dream #1)
+Price: $37.61
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/more-than-music-chasing-the-dream-1_716/index.html
+- 13 - 
+Book Name: Code Name Verity (Code Name Verity #1)
+Price: $22.13
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/code-name-verity-code-name-verity-1_680/index.html
+- 14 - 
+Book Name: Cell
+Price: $20.29
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/cell_674/index.html
+- 15 - 
+Book Name: Angels Walking (Angels Walking #1)
+Price: $34.20
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/angels-walking-angels-walking-1_662/index.html
+- 16 - 
+Book Name: A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer
+Price: $56.48
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-series-of-catastrophes-and-miracles-a-true-story-of-love-science-and-cancer_655/index.html
+- 17 - 
+Book Name: A People's History of the United States
+Price: $40.79
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-peoples-history-of-the-united-states_654/index.html
+- 18 - 
+Book Name: A Brush of Wings (Angels Walking #3)
+Price: $55.51
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-brush-of-wings-angels-walking-3_651/index.html
+- 19 - 
+Book Name: Rook
+Price: $37.86
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/rook_647/index.html
+- 20 - 
+Book Name: The Midnight Watch: A Novel of the Titanic and the Californian
+Price: $26.20
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-midnight-watch-a-novel-of-the-titanic-and-the-californian_640/index.html
+- 21 - 
+Book Name: The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore
+Price: $59.15
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-gray-rhino-how-to-recognize-and-act-on-the-obvious-dangers-we-ignore_638/index.html
+- 22 - 
+Book Name: The Children
+Price: $11.88
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-children_633/index.html
+- 23 - 
+Book Name: One with You (Crossfire #5)
+Price: $15.71
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/one-with-you-crossfire-5_626/index.html
+- 24 - 
+Book Name: Without Shame
+Price: $48.27
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/without-shame_580/index.html
+- 25 - 
+Book Name: Watchmen
+Price: $58.05
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/watchmen_579/index.html
+- 26 - 
+Book Name: A Hero's Curse (The Unseen Chronicles #1)
+Price: $50.49
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-heros-curse-the-unseen-chronicles-1_557/index.html
+- 27 - 
+Book Name: 23 Degrees South: A Tropical Tale of Changing Whether...
+Price: $35.79
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/23-degrees-south-a-tropical-tale-of-changing-whether_556/index.html
+- 28 - 
+Book Name: The Glass Castle
+Price: $16.24
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-glass-castle_496/index.html
+- 29 - 
+Book Name: The Drowning Girls
+Price: $35.67
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-drowning-girls_494/index.html
+- 30 - 
+Book Name: Team of Rivals: The Political Genius of Abraham Lincoln
+Price: $20.12
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/team-of-rivals-the-political-genius-of-abraham-lincoln_488/index.html
+- 31 - 
+Book Name: John Adams
+Price: $57.43
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/john-adams_472/index.html
+- 32 - 
+Book Name: Good in Bed (Cannie Shapiro #1)
+Price: $37.05
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/good-in-bed-cannie-shapiro-1_469/index.html
+- 33 - 
+Book Name: The Joy of Cooking
+Price: $43.27
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-joy-of-cooking_449/index.html
+- 34 - 
+Book Name: The Golden Compass (His Dark Materials #1)
+Price: $18.77
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-golden-compass-his-dark-materials-1_445/index.html
+- 35 - 
+Book Name: The God Delusion
+Price: $46.85
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-god-delusion_444/index.html
+- 36 - 
+Book Name: Pride and Prejudice
+Price: $19.27
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/pride-and-prejudice_437/index.html
+- 37 - 
+Book Name: Mere Christianity
+Price: $48.51
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/mere-christianity_435/index.html
+- 38 - 
+Book Name: Fun Home: A Family Tragicomic
+Price: $56.59
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/fun-home-a-family-tragicomic_428/index.html
+- 39 - 
+Book Name: The Raven King (The Raven Cycle #4)
+Price: $30.57
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-raven-king-the-raven-cycle-4_412/index.html
+- 40 - 
+Book Name: Find Her (Detective D.D. Warren #8)
+Price: $22.37
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/find-her-detective-dd-warren-8_373/index.html
+- 41 - 
+Book Name: Evicted: Poverty and Profit in the American City
+Price: $42.27
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/evicted-poverty-and-profit-in-the-american-city_372/index.html
+- 42 - 
+Book Name: A Game of Thrones (A Song of Ice and Fire #1)
+Price: $46.42
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-game-of-thrones-a-song-of-ice-and-fire-1_358/index.html
+- 43 - 
+Book Name: A Clash of Kings (A Song of Ice and Fire #2)
+Price: $10.79
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-clash-of-kings-a-song-of-ice-and-fire-2_356/index.html
+- 44 - 
+Book Name: The Tipping Point: How Little Things Can Make a Big Difference
+Price: $10.02
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-tipping-point-how-little-things-can-make-a-big-difference_284/index.html
+- 45 - 
+Book Name: The Rest Is Noise: Listening to the Twentieth Century
+Price: $34.77
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-rest-is-noise-listening-to-the-twentieth-century_274/index.html
+- 46 - 
+Book Name: The Purpose Driven Life: What on Earth Am I Here for?
+Price: $37.19
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-purpose-driven-life-what-on-earth-am-i-here-for_272/index.html
+- 47 - 
+Book Name: The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1)
+Price: $47.80
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-hitchhikers-guide-to-the-galaxy-hitchhikers-guide-to-the-galaxy-1_255/index.html
+- 48 - 
+Book Name: The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3)
+Price: $57.48
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-girl-who-kicked-the-hornets-nest-millennium-trilogy-3_248/index.html
+- 49 - 
+Book Name: The End of Faith: Religion, Terror, and the Future of Reason
+Price: $22.13
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-end-of-faith-religion-terror-and-the-future-of-reason_246/index.html
+- 50 - 
+Book Name: The Complete Poems
+Price: $41.32
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-complete-poems_237/index.html
+- 51 - 
+Book Name: The Catcher in the Rye
+Price: $24.55
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-catcher-in-the-rye_236/index.html
+- 52 - 
+Book Name: The Case for Christ (Cases for Christianity)
+Price: $47.84
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-case-for-christ-cases-for-christianity_234/index.html
+- 53 - 
+Book Name: The Blind Side: Evolution of a Game
+Price: $53.71
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-blind-side-evolution-of-a-game_231/index.html
+- 54 - 
+Book Name: Seven Days in the Art World
+Price: $52.33
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/seven-days-in-the-art-world_220/index.html
+- 55 - 
+Book Name: Sarah's Key
+Price: $46.29
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/sarahs-key_217/index.html
+- 56 - 
+Book Name: Rogue Lawyer (Rogue Lawyer #1)
+Price: $50.11
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/rogue-lawyer-rogue-lawyer-1_214/index.html
+- 57 - 
+Book Name: Manuscript Found in Accra
+Price: $34.98
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/manuscript-found-in-accra_192/index.html
+- 58 - 
+Book Name: Fire Bound (Sea Haven/Sisters of the Heart #5)
+Price: $21.28
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/fire-bound-sea-havensisters-of-the-heart-5_157/index.html
+- 59 - 
+Book Name: Cosmos
+Price: $36.17
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/cosmos_141/index.html
+- 60 - 
+Book Name: #GIRLBOSS
+Price: $50.96
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/girlboss_113/index.html
+- 61 - 
+Book Name: The Sense of an Ending
+Price: $31.38
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-sense-of-an-ending_111/index.html
+- 62 - 
+Book Name: The Republic
+Price: $33.78
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-republic_78/index.html
+- 63 - 
+Book Name: The Odyssey
+Price: $29.64
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-odyssey_77/index.html
+- 64 - 
+Book Name: The Light of the Fireflies
+Price: $54.43
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-light-of-the-fireflies_71/index.html
+- 65 - 
+Book Name: The Iliad
+Price: $16.16
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-iliad_69/index.html
+- 66 - 
+Book Name: The Communist Manifesto
+Price: $14.76
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-communist-manifesto_61/index.html
+- 67 - 
+Book Name: Lord of the Flies
+Price: $24.89
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/lord-of-the-flies_30/index.html

@@ -1,0 +1,5 @@
+- 1 - 
+Book Name: Fifty Shades Freed (Fifty Shades #3)
+Price: $15.36
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/fifty-shades-freed-fifty-shades-3_156/index.html

@@ -1,0 +1,240 @@
+- 1 - 
+Book Name: Unicorn Tracks
+Price: $18.78
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/unicorn-tracks_951/index.html
+- 2 - 
+Book Name: Saga, Volume 6 (Saga (Collected Editions) #6)
+Price: $25.02
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/saga-volume-6-saga-collected-editions-6_924/index.html
+- 3 - 
+Book Name: Princess Between Worlds (Wide-Awake Princess #5)
+Price: $13.34
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html
+- 4 - 
+Book Name: Masks and Shadows
+Price: $56.40
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/masks-and-shadows_909/index.html
+- 5 - 
+Book Name: Crown of Midnight (Throne of Glass #2)
+Price: $43.29
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/crown-of-midnight-throne-of-glass-2_888/index.html
+- 6 - 
+Book Name: Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)
+Price: $28.09
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/avatar-the-last-airbender-smoke-and-shadow-part-3-smoke-and-shadow-3_881/index.html
+- 7 - 
+Book Name: A Court of Thorns and Roses (A Court of Thorns and Roses #1)
+Price: $52.37
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-court-of-thorns-and-roses-a-court-of-thorns-and-roses-1_874/index.html
+- 8 - 
+Book Name: Throne of Glass (Throne of Glass #1)
+Price: $35.07
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/throne-of-glass-throne-of-glass-1_868/index.html
+- 9 - 
+Book Name: The Glittering Court (The Glittering Court #1)
+Price: $44.28
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-glittering-court-the-glittering-court-1_845/index.html
+- 10 - 
+Book Name: Hollow City (Miss Peregrineâs Peculiar Children #2)
+Price: $42.98
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/hollow-city-miss-peregrines-peculiar-children-2_813/index.html
+- 11 - 
+Book Name: The Star-Touched Queen
+Price: $46.02
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-star-touched-queen_764/index.html
+- 12 - 
+Book Name: The Hidden Oracle (The Trials of Apollo #1)
+Price: $52.26
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-hidden-oracle-the-trials-of-apollo-1_752/index.html
+- 13 - 
+Book Name: The Bane Chronicles (The Bane Chronicles #1-11)
+Price: $44.73
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-bane-chronicles-the-bane-chronicles-1-11_746/index.html
+- 14 - 
+Book Name: Island of Dragons (Unwanteds #7)
+Price: $29.65
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/island-of-dragons-unwanteds-7_705/index.html
+- 15 - 
+Book Name: Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)
+Price: $37.51
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/demigods-magicians-percy-and-annabeth-meet-the-kanes-percy-jackson-kane-chronicles-crossover-1-3_685/index.html
+- 16 - 
+Book Name: City of Glass (The Mortal Instruments #3)
+Price: $56.02
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/city-of-glass-the-mortal-instruments-3_678/index.html
+- 17 - 
+Book Name: Searching for Meaning in Gailana
+Price: $38.73
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/searching-for-meaning-in-gailana_648/index.html
+- 18 - 
+Book Name: The Star-Touched Queen
+Price: $32.30
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-star-touched-queen_642/index.html
+- 19 - 
+Book Name: A Shard of Ice (The Black Symphony Saga #1)
+Price: $56.63
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-shard-of-ice-the-black-symphony-saga-1_558/index.html
+- 20 - 
+Book Name: King's Folly (The Kinsman Chronicles #1)
+Price: $39.61
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/kings-folly-the-kinsman-chronicles-1_473/index.html
+- 21 - 
+Book Name: Every Heart a Doorway (Every Heart A Doorway #1)
+Price: $12.16
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/every-heart-a-doorway-every-heart-a-doorway-1_465/index.html
+- 22 - 
+Book Name: A Gathering of Shadows (Shades of Magic #2)
+Price: $44.81
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-gathering-of-shadows-shades-of-magic-2_456/index.html
+- 23 - 
+Book Name: The Raven Boys (The Raven Cycle #1)
+Price: $57.74
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-raven-boys-the-raven-cycle-1_411/index.html
+- 24 - 
+Book Name: The False Prince (The Ascendance Trilogy #1)
+Price: $56.00
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-false-prince-the-ascendance-trilogy-1_402/index.html
+- 25 - 
+Book Name: Tell the Wind and Fire
+Price: $45.51
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/tell-the-wind-and-fire_396/index.html
+- 26 - 
+Book Name: A Feast for Crows (A Song of Ice and Fire #4)
+Price: $17.21
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-feast-for-crows-a-song-of-ice-and-fire-4_357/index.html
+- 27 - 
+Book Name: The Demonists (Demonist #1)
+Price: $52.11
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-demonists-demonist-1_345/index.html
+- 28 - 
+Book Name: The Beast (Black Dagger Brotherhood #14)
+Price: $46.08
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-beast-black-dagger-brotherhood-14_342/index.html
+- 29 - 
+Book Name: Paper and Fire (The Great Library #2)
+Price: $49.45
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/paper-and-fire-the-great-library-2_339/index.html
+- 30 - 
+Book Name: Harry Potter and the Order of the Phoenix (Harry Potter #5)
+Price: $31.63
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/harry-potter-and-the-order-of-the-phoenix-harry-potter-5_327/index.html
+- 31 - 
+Book Name: Harry Potter and the Half-Blood Prince (Harry Potter #6)
+Price: $48.75
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/harry-potter-and-the-half-blood-prince-harry-potter-6_326/index.html
+- 32 - 
+Book Name: Harry Potter and the Chamber of Secrets (Harry Potter #2)
+Price: $14.74
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/harry-potter-and-the-chamber-of-secrets-harry-potter-2_325/index.html
+- 33 - 
+Book Name: The Rose & the Dagger (The Wrath and the Dawn #2)
+Price: $58.64
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-rose-the-dagger-the-wrath-and-the-dawn-2_278/index.html
+- 34 - 
+Book Name: Soldier (Talon #3)
+Price: $24.72
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/soldier-talon-3_222/index.html
+- 35 - 
+Book Name: Midnight Riot (Peter Grant/ Rivers of London - books #1)
+Price: $55.46
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/midnight-riot-peter-grant-rivers-of-london-books-1_194/index.html
+- 36 - 
+Book Name: Heir to the Sky
+Price: $44.07
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/heir-to-the-sky_166/index.html
+- 37 - 
+Book Name: Eragon (The Inheritance Cycle #1)
+Price: $43.87
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/eragon-the-inheritance-cycle-1_153/index.html
+- 38 - 
+Book Name: Darkfever (Fever #1)
+Price: $56.02
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/darkfever-fever-1_145/index.html
+- 39 - 
+Book Name: Ash
+Price: $22.06
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/ash_123/index.html
+- 40 - 
+Book Name: A Storm of Swords (A Song of Ice and Fire #3)
+Price: $31.22
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-storm-of-swords-a-song-of-ice-and-fire-3_116/index.html
+- 41 - 
+Book Name: Vampire Girl (Vampire Girl #1)
+Price: $53.82
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/vampire-girl-vampire-girl-1_92/index.html
+- 42 - 
+Book Name: The Silent Twin (Detective Jennifer Knight #3)
+Price: $36.25
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-silent-twin-detective-jennifer-knight-3_82/index.html
+- 43 - 
+Book Name: The Mirror & the Maze (The Wrath and the Dawn #1.5)
+Price: $29.38
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-mirror-the-maze-the-wrath-and-the-dawn-15_73/index.html
+- 44 - 
+Book Name: Sister Sable (The Mad Queen #1)
+Price: $13.33
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/sister-sable-the-mad-queen-1_54/index.html
+- 45 - 
+Book Name: Shadow Rites (Jane Yellowrock #10)
+Price: $21.72
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/shadow-rites-jane-yellowrock-10_51/index.html
+- 46 - 
+Book Name: Origins (Alphas 0.5)
+Price: $28.99
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/origins-alphas-05_42/index.html
+- 47 - 
+Book Name: One Second (Seven #7)
+Price: $52.94
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/one-second-seven-7_41/index.html
+- 48 - 
+Book Name: Myriad (Prentor #1)
+Price: $58.75
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/myriad-prentor-1_36/index.html

@@ -1,0 +1,25 @@
+- 1 - 
+Book Name: Online Marketing for Busy Authors: A Step-By-Step Guide
+Price: $46.35
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/online-marketing-for-busy-authors-a-step-by-step-guide_913/index.html
+- 2 - 
+Book Name: How to Be Miserable: 40 Strategies You Already Use
+Price: $46.03
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/how-to-be-miserable-40-strategies-you-already-use_897/index.html
+- 3 - 
+Book Name: Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress
+Price: $52.15
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/overload-how-to-unplug-unwind-and-unleash-yourself-from-the-pressure-of-stress_725/index.html
+- 4 - 
+Book Name: You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life
+Price: $12.08
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/you-are-a-badass-how-to-stop-doubting-your-greatness-and-start-living-an-awesome-life_508/index.html
+- 5 - 
+Book Name: How to Stop Worrying and Start Living
+Price: $46.49
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/how-to-stop-worrying-and-start-living_431/index.html

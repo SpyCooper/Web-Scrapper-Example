@@ -1,0 +1,325 @@
+- 1 - 
+Book Name: Soumission
+Price: $50.10
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/soumission_998/index.html
+- 2 - 
+Book Name: Private Paris (Private #10)
+Price: $47.61
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/private-paris-private-10_958/index.html
+- 3 - 
+Book Name: We Love You, Charlie Freeman
+Price: $50.27
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html
+- 4 - 
+Book Name: Thirst
+Price: $17.27
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/thirst_946/index.html
+- 5 - 
+Book Name: The Murder That Never Was (Forensic Instincts #5)
+Price: $54.11
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-murder-that-never-was-forensic-instincts-5_939/index.html
+- 6 - 
+Book Name: Tuesday Nights in 1980
+Price: $21.04
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/tuesday-nights-in-1980_870/index.html
+- 7 - 
+Book Name: The Vacationers
+Price: $42.15
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-vacationers_863/index.html
+- 8 - 
+Book Name: The Regional Office Is Under Attack!
+Price: $51.36
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-regional-office-is-under-attack_858/index.html
+- 9 - 
+Book Name: Finders Keepers (Bill Hodges Trilogy #2)
+Price: $53.53
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/finders-keepers-bill-hodges-trilogy-2_807/index.html
+- 10 - 
+Book Name: The Time Keeper
+Price: $27.88
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-time-keeper_766/index.html
+- 11 - 
+Book Name: The Testament of Mary
+Price: $52.67
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-testament-of-mary_765/index.html
+- 12 - 
+Book Name: The First Hostage (J.B. Collins #2)
+Price: $25.85
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-first-hostage-jb-collins-2_749/index.html
+- 13 - 
+Book Name: Take Me with You
+Price: $45.21
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/take-me-with-you_741/index.html
+- 14 - 
+Book Name: Still Life with Bread Crumbs
+Price: $26.41
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/still-life-with-bread-crumbs_738/index.html
+- 15 - 
+Book Name: Shtum
+Price: $55.84
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/shtum_733/index.html
+- 16 - 
+Book Name: My Name Is Lucy Barton
+Price: $41.56
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/my-name-is-lucy-barton_720/index.html
+- 17 - 
+Book Name: My Mrs. Brown
+Price: $24.48
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/my-mrs-brown_719/index.html
+- 18 - 
+Book Name: Mr. Mercedes (Bill Hodges Trilogy #1)
+Price: $28.90
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/mr-mercedes-bill-hodges-trilogy-1_717/index.html
+- 19 - 
+Book Name: I Am Pilgrim (Pilgrim #1)
+Price: $10.60
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/i-am-pilgrim-pilgrim-1_703/index.html
+- 20 - 
+Book Name: Eligible (The Austen Project #4)
+Price: $27.09
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/eligible-the-austen-project-4_692/index.html
+- 21 - 
+Book Name: Eight Hundred Grapes
+Price: $14.39
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/eight-hundred-grapes_690/index.html
+- 22 - 
+Book Name: Dear Mr. Knightley
+Price: $11.21
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/dear-mr-knightley_684/index.html
+- 23 - 
+Book Name: Cometh the Hour (The Clifton Chronicles #6)
+Price: $25.01
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/cometh-the-hour-the-clifton-chronicles-6_681/index.html
+- 24 - 
+Book Name: Balloon Animals
+Price: $17.03
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/balloon-animals_665/index.html
+- 25 - 
+Book Name: A Man Called Ove
+Price: $39.72
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-man-called-ove_653/index.html
+- 26 - 
+Book Name: The Silent Sister (Riley MacPherson #1)
+Price: $46.29
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-silent-sister-riley-macpherson-1_641/index.html
+- 27 - 
+Book Name: The Dinner Party
+Price: $56.54
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-dinner-party_635/index.html
+- 28 - 
+Book Name: The Improbability of Love
+Price: $59.45
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-improbability-of-love_607/index.html
+- 29 - 
+Book Name: Mothering Sunday
+Price: $13.34
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/mothering-sunday_600/index.html
+- 30 - 
+Book Name: Lies and Other Acts of Love
+Price: $45.14
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/lies-and-other-acts-of-love_596/index.html
+- 31 - 
+Book Name: Daredevils
+Price: $16.34
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/daredevils_590/index.html
+- 32 - 
+Book Name: 11/22/63
+Price: $48.48
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/112263_583/index.html
+- 33 - 
+Book Name: The Shack
+Price: $28.03
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-shack_576/index.html
+- 34 - 
+Book Name: The High Mountains of Portugal
+Price: $51.15
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-high-mountains-of-portugal_547/index.html
+- 35 - 
+Book Name: Miller's Valley
+Price: $58.54
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/millers-valley_534/index.html
+- 36 - 
+Book Name: Hystopia: A Novel
+Price: $21.96
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/hystopia-a-novel_523/index.html
+- 37 - 
+Book Name: The Bourne Identity (Jason Bourne #1)
+Price: $42.78
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-bourne-identity-jason-bourne-1_492/index.html
+- 38 - 
+Book Name: Sister Dear
+Price: $40.20
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/sister-dear_485/index.html
+- 39 - 
+Book Name: Memoirs of a Geisha
+Price: $49.67
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/memoirs-of-a-geisha_477/index.html
+- 40 - 
+Book Name: Me Before You (Me Before You #1)
+Price: $19.02
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/me-before-you-me-before-you-1_434/index.html
+- 41 - 
+Book Name: Deception Point
+Price: $40.32
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/deception-point_426/index.html
+- 42 - 
+Book Name: The Little Paris Bookshop
+Price: $24.73
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-little-paris-bookshop_407/index.html
+- 43 - 
+Book Name: The Firm
+Price: $45.56
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-firm_404/index.html
+- 44 - 
+Book Name: The Expatriates
+Price: $44.58
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-expatriates_401/index.html
+- 45 - 
+Book Name: Siddhartha
+Price: $34.22
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/siddhartha_393/index.html
+- 46 - 
+Book Name: Last One Home (New Beginnings #1)
+Price: $59.98
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/last-one-home-new-beginnings-1_383/index.html
+- 47 - 
+Book Name: Digital Fortress
+Price: $58.00
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/digital-fortress_369/index.html
+- 48 - 
+Book Name: Atlas Shrugged
+Price: $26.58
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/atlas-shrugged_314/index.html
+- 49 - 
+Book Name: Three-Martini Lunch
+Price: $23.21
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/three-martini-lunch_290/index.html
+- 50 - 
+Book Name: The Nightingale
+Price: $26.26
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-nightingale_267/index.html
+- 51 - 
+Book Name: The Infinities
+Price: $27.41
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-infinities_257/index.html
+- 52 - 
+Book Name: The Husband's Secret
+Price: $52.51
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-husbands-secret_256/index.html
+- 53 - 
+Book Name: The Da Vinci Code (Robert Langdon #2)
+Price: $22.96
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-da-vinci-code-robert-langdon-2_240/index.html
+- 54 - 
+Book Name: The Art of Fielding
+Price: $22.10
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-art-of-fielding_228/index.html
+- 55 - 
+Book Name: Lila (Gilead #3)
+Price: $12.47
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/lila-gilead-3_190/index.html
+- 56 - 
+Book Name: Jurassic Park (Jurassic Park #1)
+Price: $44.97
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/jurassic-park-jurassic-park-1_180/index.html
+- 57 - 
+Book Name: Inferno (Robert Langdon #4)
+Price: $41.00
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/inferno-robert-langdon-4_176/index.html
+- 58 - 
+Book Name: Crazy Rich Asians (Crazy Rich Asians #1)
+Price: $49.13
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/crazy-rich-asians-crazy-rich-asians-1_143/index.html
+- 59 - 
+Book Name: Big Little Lies
+Price: $22.11
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/big-little-lies_129/index.html
+- 60 - 
+Book Name: The Course of Love
+Price: $16.78
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-course-of-love_109/index.html
+- 61 - 
+Book Name: When I'm Gone
+Price: $51.96
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/when-im-gone_95/index.html
+- 62 - 
+Book Name: The Silent Wife
+Price: $12.34
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-silent-wife_83/index.html
+- 63 - 
+Book Name: The Bette Davis Club
+Price: $30.66
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-bette-davis-club_59/index.html
+- 64 - 
+Book Name: Kitchens of the Great Midwest
+Price: $57.20
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/kitchens-of-the-great-midwest_28/index.html
+- 65 - 
+Book Name: Bright Lines
+Price: $39.07
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/bright-lines_11/index.html

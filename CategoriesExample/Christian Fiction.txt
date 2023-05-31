@@ -1,0 +1,30 @@
+- 1 - 
+Book Name: Redeeming Love
+Price: $20.47
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/redeeming-love_826/index.html
+- 2 - 
+Book Name: Close to You
+Price: $49.46
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/close-to-you_798/index.html
+- 3 - 
+Book Name: Shadows of the Past (Logan Point #1)
+Price: $39.67
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/shadows-of-the-past-logan-point-1_541/index.html
+- 4 - 
+Book Name: Like Never Before (Walker Family #2)
+Price: $28.77
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/like-never-before-walker-family-2_476/index.html
+- 5 - 
+Book Name: Counted With the Stars (Out from Egypt #1)
+Price: $17.97
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/counted-with-the-stars-out-from-egypt-1_463/index.html
+- 6 - 
+Book Name: If I Run (If I Run #1)
+Price: $49.97
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/if-i-run-if-i-run-1_174/index.html

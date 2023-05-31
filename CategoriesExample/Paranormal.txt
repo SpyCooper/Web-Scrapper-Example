@@ -1,0 +1,5 @@
+- 1 - 
+Book Name: Vampire Knight, Vol. 1 (Vampire Knight #1)
+Price: $15.40
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/vampire-knight-vol-1-vampire-knight-1_93/index.html

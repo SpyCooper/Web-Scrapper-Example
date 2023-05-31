@@ -1,0 +1,55 @@
+- 1 - 
+Book Name: In Her Wake
+Price: $12.84
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/in-her-wake_980/index.html
+- 2 - 
+Book Name: The Elephant Tree
+Price: $23.82
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html
+- 3 - 
+Book Name: Behind Closed Doors
+Price: $52.22
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html
+- 4 - 
+Book Name: You (You #1)
+Price: $43.61
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/you-you-1_784/index.html
+- 5 - 
+Book Name: The Guilty (Will Robie #4)
+Price: $13.82
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-guilty-will-robie-4_750/index.html
+- 6 - 
+Book Name: The 14th Colony (Cotton Malone #11)
+Price: $39.24
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-14th-colony-cotton-malone-11_744/index.html
+- 7 - 
+Book Name: Give It Back
+Price: $18.32
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/give-it-back_430/index.html
+- 8 - 
+Book Name: Killing Floor (Jack Reacher #1)
+Price: $31.49
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/killing-floor-jack-reacher-1_382/index.html
+- 9 - 
+Book Name: The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)
+Price: $59.71
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-bone-hunters-lexy-vaughan-steven-macaulay-2_343/index.html
+- 10 - 
+Book Name: Far From True (Promise Falls Trilogy #2)
+Price: $34.93
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/far-from-true-promise-falls-trilogy-2_320/index.html
+- 11 - 
+Book Name: The Travelers
+Price: $15.77
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-travelers_285/index.html

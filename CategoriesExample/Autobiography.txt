@@ -1,0 +1,45 @@
+- 1 - 
+Book Name: The Argonauts
+Price: $10.93
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/the-argonauts_837/index.html
+- 2 - 
+Book Name: M Train
+Price: $27.18
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/m-train_598/index.html
+- 3 - 
+Book Name: Lab Girl
+Price: $40.85
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/lab-girl_595/index.html
+- 4 - 
+Book Name: Approval Junkie: Adventures in Caring Too Much
+Price: $58.81
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/approval-junkie-adventures-in-caring-too-much_363/index.html
+- 5 - 
+Book Name: Running with Scissors
+Price: $12.91
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/running-with-scissors_215/index.html
+- 6 - 
+Book Name: Me Talk Pretty One Day
+Price: $57.60
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/me-talk-pretty-one-day_193/index.html
+- 7 - 
+Book Name: Lust & Wonder
+Price: $11.87
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/lust-wonder_191/index.html
+- 8 - 
+Book Name: Life Without a Recipe
+Price: $59.04
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/life-without-a-recipe_188/index.html
+- 9 - 
+Book Name: A Heartbreaking Work of Staggering Genius
+Price: $54.29
+Availability: In stock
+Link: https://books.toscrape.com/catalogue/a-heartbreaking-work-of-staggering-genius_115/index.html
