@@ -1,4 +1,5 @@
 # Web Scrapper Example
+**NOTE:** To run the program, you need to make a folder called 'categories' in the same location as crawler.py
 
 ## Project description
 This is a program the goes through https://books.toscrape.com/ and finds all the books in every category and writes each books information into it's category's file.
